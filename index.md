@@ -12,7 +12,7 @@ PennStaters can also contact me in [Teams](https://office365.psu.edu) or [Google
 
 [Workshop on “Higher Structures” at Penn State (December 1-4, 2022)](2022_PSU_workshop.html)
 
-[GAP 2023 — Homotopy Algebras and Higher Structures (May 22-26, 2023)](hirsutes2023/gap2023.html)
+[GAP 2023 — Homotopy Algebras and Higher Structures (May 22-26, 2023)](gap2023.html)
 
 [GAP: Geometry and Physics — Séminaire itinérant](gap.html)
 
