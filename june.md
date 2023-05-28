@@ -1,0 +1,45 @@
+# Higher structures in Enumerative Geometry
+
+June 12-16, 2023 @ [Institut Henri Poincaré](https://www.ihp.fr) in Paris
+
+This conference is part of the [thematic trimester 'Higher Structures in Geometry and Mathematical Physics'](https://indico.math.cnrs.fr/category/569/).
+
+## Speakers
+
+- Jim Bryan (British Columbia)
+- Ben Davison (Edinburgh)
+- Tobias Dyckerhoff (Hamburg)
+- Penka Georgieva (Jussieu)
+- Rok Gregoric (Texas)
+- Zheng Hua (Hong Kong)
+- Yuan-Pin Lee (Utah)
+- Wendy Lowen (Antwerp)
+- Étienne Mann (Angers)
+- Cristina Manolache (Sheffield)
+- Davesh Maulik (MIT)
+- Renata Picciotto (Angers)
+- Mauro Porta (Strasbourg)
+- Andrea Ricolfi (SISSA)
+- Emily Riehl (Johns Hopkins)
+- Sarah Scherotzke (Luxembourg)
+- Richard P W Thomas (Imperial)
+- Yukinobu Toda (Kavli IPMU)
+
+## Organizers
+
+- Kai Behrend (British Columbia)
+- Barbara Fantechi (SISSA)
+
+## Registration
+
+Registration for events held at IHP is handled by <https://indico.math.cnrs.fr/>.
+If you do not already have an indico account, you must create one prior to registration.
+
+Registration itself is a two-step process:
+
+1. [register for the thematic trimester](https://indico.math.cnrs.fr/event/7893/) 'Higher Structures in Geometry and Physics'
+2. [register for the conference](https://indico.math.cnrs.fr/event/7883/) 'Higher structures in Enumerative Geometry'
+
+---
+
+<img alt="Institut Henri Poincaré" src="ihp.png" width="185" height="117">
