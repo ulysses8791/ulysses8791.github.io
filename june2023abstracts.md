@@ -81,7 +81,7 @@ Refreshments will be provided.
 
 **d-critical structure(s) on the Quot scheme of points on a Calabi-Yau 3-fold**
 
-D-critical schemes and Artin stacks were introduced by Joyce in 2015, and play a central role in Donaldson-Thomas theory. They typically occur as truncations of (-1)-shifted symplectic derived schemes, but the problem of constructing the d-critical structure on a \'93DT moduli space\'94 without passing through derived geometry (which is hard) is wide open. We discuss this and related problems, and new results in this direction, when the moduli space is the Quot scheme of points on a Calabi-Yau 3-fold. Joint work with Michail Savvas.
+D-critical schemes and Artin stacks were introduced by Joyce in 2015, and play a central role in Donaldson-Thomas theory. They typically occur as truncations of (-1)-shifted symplectic derived schemes, but the problem of constructing the d-critical structure on a "DT moduli space" without passing through derived geometry (which is hard) is wide open. We discuss this and related problems, and new results in this direction, when the moduli space is the Quot scheme of points on a Calabi-Yau 3-fold. Joint work with Michail Savvas.
 
 [back to top](#top)
 
@@ -101,7 +101,7 @@ Gromov--Witten (GW) invariants of genus g, with g greater than one, do not count
 
 **Do we want a new foundation for "higher structures"?**
 
-The fundamental theorem of category theory is the Yoneda lemma, which in its simplest form identifies natural transformations between represented functors with morphisms between the representing objects. The \uc0\u8734 - categorical Yoneda lemma is surprisingly hard to prove --- at least in the traditional set-based foundations of mathematics. In this talk we'll describe the experience of developing \u8734 -category theory in an alternate foundation system based on homotopy type theory, in which constructions determined up to a contractible space of choices are genuinely "well-defined" and elementwise mappings are automatically homotopically-coherently functorial. In this setting the proof the \u8734 -categorical Yoneda lemma is arguably easier than the 1-categorical Yoneda lemma. We'll end by posing the question as to whether similar foundations would be useful for other "higher structures." This is based on joint work with Mike Shulman and involves computer formalizations written in collaboration with Nikolai Kudasov and Jonathan Weinberger.
+The fundamental theorem of category theory is the Yoneda lemma, which in its simplest form identifies natural transformations between represented functors with morphisms between the representing objects. The $\infty$-categorical Yoneda lemma is surprisingly hard to prove --- at least in the traditional set-based foundations of mathematics. In this talk we'll describe the experience of developing $\infty$-category theory in an alternate foundation system based on homotopy type theory, in which constructions determined up to a contractible space of choices are genuinely "well-defined" and elementwise mappings are automatically homotopically-coherently functorial. In this setting the proof the $\infty$-categorical Yoneda lemma is arguably easier than the 1-categorical Yoneda lemma. We'll end by posing the question as to whether similar foundations would be useful for other "higher structures." This is based on joint work with Mike Shulman and involves computer formalizations written in collaboration with Nikolai Kudasov and Jonathan Weinberger.
 
 [back to top](#top)
 
@@ -132,7 +132,7 @@ Earlier Borisov-Joyce used real derived differential geometry to define a real v
 
 ### Tobias Dyckerhoff _(Hamburg)_ {#dyckerhoff}
 
-**Complexes of stable \uc0\u8734 -categories**
+**Complexes of stable $\infty$-categories**
 
 Derived categories have come to play a decisive role in a wide range of topics. Several recent developments, in particular in the context of topological Fukaya categories, arouse the desire to study not just single categories, but rather complexes of categories. In this talk, we will discuss examples that arise in the vicinity of homological mirror symmetry, along with some results and conjectures involving them.
 
@@ -145,7 +145,7 @@ Derived categories have come to play a decisive role in a wide range of topics. 
 **QK = GV for CY3 at g=0**
 
 In this talk, I will show that on a Calabi-Yau threefold (CY3) a genus zero quantum K-invariant (QK) can be written as an integral linear combination of a finite number of Gopakumar--Vafa BPS invariants (GV) with coefficients from an explicit multiple cover formula. Conversely, all Gopakumar--Vafa invariants can be determined by a finite number of quantum K-invariants in a similar manner. The technical heart is a proof of a remarkable conjecture by Hans Jockers and Peter Mayr.
-This result is consistent with the \'93virtual Clemens conjecture\'94 for the Calabi\'96Yau threefolds. A heuristic derivation of the relation between QK and GV via the virtual Clemens conjecture and a \'93multiple cover formula\'94 will also be explained. This is a joint work with You-Cheng Chou.
+This result is consistent with the "virtual Clemens conjecture" for the Calabi--Yau threefolds. A heuristic derivation of the relation between QK and GV via the virtual Clemens conjecture and a "multiple cover formula" will also be explained. This is a joint work with You-Cheng Chou.
 
 [back to top](#top)
 
