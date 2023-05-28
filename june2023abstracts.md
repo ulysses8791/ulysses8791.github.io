@@ -10,6 +10,8 @@ This conference is part of the [thematic trimester 'Higher Structures in Geometr
 
 ## SCHEDULE {#top}
 
+==forthcoming==
+
 <!---
 
 |     |       |        |
@@ -91,7 +93,7 @@ D-critical schemes and Artin stacks were introduced by Joyce in 2015, and play a
 
 **Desingularisation of sheaves and reduced Gromov--Witten invariants**
 
-Gromov--Witten (GW) invariants of genus g, with g greater than one, do not count curves of genus g in a given space: curves of lower genus also contribute to GW invariants. In genus one this problem was corrected by Vakil and Zinger, who defined more enumerative numbers called "reduced GW invariants". More recently Hu, Li and Niu gave a construction of reduced GW invariants in genus two. I will define reduced Gromov--Witten invariants in all genera. This is work with A. Cobos-Rabano, E. Mann and R. Picciotto.
+Gromov--Witten (GW) invariants of genus g, with g greater than one, do not count curves of genus g in a given space: curves of lower genus also contribute to GW invariants. In genus one this problem was corrected by Vakil and Zinger, who defined more enumerative numbers called "reduced GW invariants." More recently Hu, Li and Niu gave a construction of reduced GW invariants in genus two. I will define reduced Gromov--Witten invariants in all genera. This is work with A. Cobos-Rabano, E. Mann and R. Picciotto.
 
 [back to top](#top)
 
