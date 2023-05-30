@@ -99,7 +99,7 @@ Gromov--Witten (GW) invariants of genus g, with g greater than one, do not count
 
 ---
 
-### Emily Riehl _(Johns Jopkins)_ {#riehl}
+### Emily Riehl _(Johns Hopkins)_ {#riehl}
 
 **Do we want a new foundation for "higher structures"?**
 
