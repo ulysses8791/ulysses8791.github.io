@@ -10,7 +10,7 @@ PennStaters can also contact me in [Teams](https://office365.psu.edu) or [Google
 
 ## Research
 
-[HIRSUTES2023 — thematic trimester on higher structures in geometry and mathematical physics](T2_2023_Poster.pdf)
+[HIRSUTES2023 — thematic trimester on higher structures in geometry and mathematical physics](https://indico.math.cnrs.fr/event/7893/) +++[poster](T2_2023_Poster.pdf)+++
 
 [GAP 2023 — Homotopy Algebras and Higher Structures (May 22-26, 2023)](gap2023.html)
 
@@ -26,7 +26,9 @@ PennStaters can also contact me in [Teams](https://office365.psu.edu) or [Google
 
 ### Fall 2022
 
-[MATH 220H — Matrices](220H_22F_syllabus.html)
+| Course | Days | Time | Room |
+| :----: | :--: | :--: | :--: |
+| [MATH 220H](220H_22F_syllabus.html) | Mon Wed Fri | 09:05 — 09:55 | Willard Building 271 |
 
 ### Spring 2022
 
@@ -44,7 +46,7 @@ PennStaters can also contact me in [Teams](https://office365.psu.edu) or [Google
 
 ### Spring 2021
 
-[MATH 484.003 — Linear Optimization](484_21S_syllabus.html)
+[MATH 484.003](484_21S_syllabus.html)
 
 ### Fall 2020
 
