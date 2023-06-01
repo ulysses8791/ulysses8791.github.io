@@ -18,6 +18,8 @@ PennStaters can also contact me in [Teams](https://office365.psu.edu) or [Google
 
 [Workshop on “Higher Structures” at Penn State (December 1-4, 2022)](2022_PSU_workshop.html)
 
+[GAP 2022 — Deformations and Higher Structures (May 16-20, 2022)](https://personal.psu.edu/mps16/gap2022/abstracts.html)
+
 [GAP: Geometry and Physics — Séminaire itinérant](gap.html)
 
 [Weekly GAP Seminar at Penn State](https://math-cal.cloud.science.psu.edu/events/seminar/408)
