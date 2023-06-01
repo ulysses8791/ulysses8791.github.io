@@ -10,9 +10,11 @@ PennStaters can also contact me in [Teams](https://office365.psu.edu) or [Google
 
 ## Research
 
-[HIRSUTES2023 — thematic trimester on higher structures in geometry and mathematical physics](https://indico.math.cnrs.fr/event/7893/) +++[poster](T2_2023_Poster.pdf)+++
+[HIRSUTES2023 — thematic trimester on higher structures in geometry and mathematical physics](https://indico.math.cnrs.fr/event/7893/)
 
-[GAP 2023 — Homotopy Algebras and Higher Structures (May 22-26, 2023)](gap2023.html)
++ [poster](T2_2023_Poster.pdf)
++ [GAP 2023 — Homotopy Algebras and Higher Structures (May 22-26, 2023)](gap2023.html)
++ [Higher structures in Enumerative Geometry (June 12-16, 2023)](june2023.html)
 
 [Workshop on “Higher Structures” at Penn State (December 1-4, 2022)](2022_PSU_workshop.html)
 
