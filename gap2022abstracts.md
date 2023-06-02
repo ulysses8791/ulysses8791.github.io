@@ -11,49 +11,6 @@ Remote participants must [register in advance](https://ubc.zoom.us/meeting/regis
 
 ## SCHEDULE {#top}
 
-<!---
-
-||MONDAY|TUESDAY|WEDNESDAY|THURSDAY|FRIDAY|
-|:--:|:--:|:--:|:--:|:--:|:--:|
-|09:00|welcome|Keller|Hua|Keller|Keller|
-|10:00|_break_|_break_|_break_|_break_|_break_|
-|10:30|Fantechi|Rouquier|Getzler|Rouquier|Bandiera|
-|11:30|Laurent|Bergner|TBA|Getzler|Getzler|
-|12:30|_lunch_|_lunch_|_lunch_|_lunch_|_lunch_|
-|14:00|Williams|Manetti| |Fresse||
-|15:00|_break_|_break_| |_break_||
-|15:30|Rouquier|Toda| |Rivera||
-|16:30||||||
-|||_dinner_||||
-
-[Getzler](#getzler)
-
-[Keller](#keller)
-
-[Rouquier](#rouquier)
-
-[Bandiera](#bandiera)
-
-[Bergner](#bergner)
-
-[Fantechi](#fantechi)
-
-[Fresse](#fresse)
-
-[Hua](#hua)
-
-[Laurent-Gengoux](#laurent-gengoux)
-
-[Manetti](#manetti)
-
-[Rivera](#rivera)
-
-[Toda](#toda)
-
-[Williams](#williams)
-
---->
-
 ||MONDAY|TUESDAY|WEDNESDAY|THURSDAY|FRIDAY|
 |:--:|:--:|:--:|:--:|:--:|:--:|
 |09:00|09:45 welcome|[Keller](#keller)|[Hua](#hua)|[Keller](#keller)|[Keller](#keller)|
