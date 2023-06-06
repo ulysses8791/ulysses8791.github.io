@@ -134,6 +134,14 @@ Derived categories have come to play a decisive role in a wide range of topics. 
 
 ---
 
+### Zheng Hua _(Hong Kong)_ {#hua}
+
+**Modular Poisson structures**
+
+Give a Gorenstein Calabi-Yau curve X, the moduli stack of bounded complexes of vector bundles on X admits a 0-shifted Poisson structure. For the component that is a G_m gerbe over a smooth scheme, the 0-shifted Poisson structure descends to an ordinary Poisson structure on its coarse moduli scheme, which we call a “modular Poisson structure”. In this talk we will survey some recent progress on the study of the modular Poisson structures. In particular we will give the example when X is the Kodaira cycle, where we establish a correspondence between certain torus orbits of vector bundle stack and projected open Richardson varieties on grassmannian via modular Poisson structure. 
+
+---
+
 ### Yuan-Pin Lee _(Utah)_ {#lee}
 
 **QK = GV for CY3 at g=0**
