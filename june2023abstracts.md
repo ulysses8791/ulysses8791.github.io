@@ -147,9 +147,18 @@ Give a Gorenstein Calabi-Yau curve X, the moduli stack of bounded complexes of v
 **QK = GV for CY3 at g=0**
 
 In this talk, I will show that on a Calabi-Yau threefold (CY3) a genus zero quantum K-invariant (QK) can be written as an integral linear combination of a finite number of Gopakumar--Vafa BPS invariants (GV) with coefficients from an explicit multiple cover formula. Conversely, all Gopakumar--Vafa invariants can be determined by a finite number of quantum K-invariants in a similar manner. The technical heart is a proof of a remarkable conjecture by Hans Jockers and Peter Mayr.
+
 This result is consistent with the "virtual Clemens conjecture" for the Calabi--Yau threefolds. A heuristic derivation of the relation between QK and GV via the virtual Clemens conjecture and a "multiple cover formula" will also be explained. This is a joint work with You-Cheng Chou.
 
 [back to top](#top)
+
+---
+
+### Wendy Lowen _(Antwerp)_
+
+**Box operads and noncommutative schemes**
+
+In this talk, we discuss how the concept of algebraic deformation theory, dating back to Gerstenhaber’s deformation theory of algebras, can be applied in geometry leading to ‘noncommutative schemes’ in the sense of Van den Bergh. In the first part of the talk, we focus on models in projective geometry, like graded algebras and Z-algebras, and we describe deformations as ‘noncommutative projective schemes’ under the assumption that H^1(X,O_X) = 0 = H^2(X,O_X). In the second part of the talk, we take a local approach to schemes by deforming the structure sheaf, leading to ‘twisted presheaves’ or ‘prestacks’ in case H^2(X,O_X) is non-zero. Finally, we present an operadic structure on the Gerstenhaber-Schack complex of a prestack recently established in joint work with Hoang Dinh Van and Lander Hermans. This yields an underlying L_{infinity} structure governing deformations of prestacks.
 
 ---
 
