@@ -103,9 +103,9 @@ The fundamental theorem of category theory is the Yoneda lemma, which in its sim
 
 ### Jim Bryan _(British Columbia)_ {#bryan}
 
-**A theory of Gopakumar-Vafa invariants for orbifold Calabi-Yau threefolds**
+**The geometry and arithmetic of banana nano-manifolds.**
 
-We define integer valued invariants of an orbifold Calabi-Yau threefold $X$ with transverse ADE orbifold points. These invariants contain equivalent information to the Gromov-Witten invariants of $X$ and are related by a Gopakumar-Vafa like formula which may be regarded as a universal multiple cover / degenerate contribution formula for orbifold Gromov-Witten invariants. We also give sheaf theoretic definitions of our invariants. As examples, we give formulas for our invariants in the case of a (local) orbifold K3 surface. These new formulas generalize the classical Yau-Zaslow and Katz-Klemm-Vafa formulas. This is joint work with S. Pietromonaco.
+The Hodge numbers of a Calabi-Yau threefold X are determined by the two numbers h^{1,1}(X) and h^{1,2}(X) which can be interpreted respectively as the dimensions of the space of Kahler forms and complex deformations respectively. We construct four new examples X_N, where N \in {5,6,8,9}, of rigid Calabi-Yau threefolds (h^{2,1}=0) with Picard number 4 (h^{1,1}=4). These manifolds are of “banana type” and have among the smallest known values for Calabi-Yau Hodge numbers. We (partially) compute the Donaldson-Thomas partition functions of these manifolds and in particular show that the associated genus g Gromov-Witten potential is given by a weight 2g-2 Siegel paramodular form of index N. These manifolds are also modular in the arithmetic sense: there is a weight 4 modular form whose Fourier coefficients are obtained by counting points over finite fields on X_N. We compute this form and observe that it is the unique cusp form of weight 4 and index N. This is joint work with Stephen Pietromonaco.
 
 [back to top](#top)
 
