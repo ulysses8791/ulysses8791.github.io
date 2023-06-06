@@ -12,40 +12,41 @@ This conference is part of the [thematic trimester 'Higher Structures in Geometr
 
 |     |       |        |
 |:----|:-----:|-------:|
-| MON | 10:00 | [talk](#lastname) |
+| MON | 09:00 | registration |
+|     | 10:00 | [Davesh Maulik](#maulik) |
 |     | 11:00 | _coffee break_ |
-|     | 11:30 | [talk](#lastname) |
+|     | 11:30 | [Cristina Manolache](#manolache) |
 |     | 12:30 | _lunch break_ |
-|     | 14:00 | [talk](#lastname) |
+|     | 14:00 | [Y.P. Lee](#lee) |
 |     | 15:00 | _coffee break_ |
-|     | 15:30 | [talk](#lastname) |
+|     | 15:30 | [Rok Gregoric](#gregoric) |
 |     | 16:30 | |
 |     | 18:00 | [reception](#reception) |
-| TUE | 10:00 | [talk](#lastname) |
+| TUE | 10:00 | [Emily Riehl](#riehl) |
 |     | 11:00 | _coffee break_ |
-|     | 11:30 | [talk](#lastname) |
+|     | 11:30 | [Yukinobu Toda](#toda) |
 |     | 12:30 | _lunch break_ |
-|     | 14:00 | [talk](#lastname) |
+|     | 14:00 | [Andrea Ricolfi](#ricolfi) |
 |     | 15:00 | _coffee break_ |
-|     | 15:30 | [talk](#lastname) |
+|     | 15:30 | [Jim Bryan](#bryan) |
 |     | 16:30 | |
-| WED | 09:30 | [talk](#lastname) |
+| WED | 09:30 | [Zheng Hua](#hua) |
 |     | 10:30 | _coffee break_ |
-|     | 11:00 | [talk](#lastname) |
-|     | 12:00 | [talk](#lastname) |
+|     | 11:00 | [Wendy Lowen](#lowen) |
+|     | 12:00 | [Sarah Scherotzke](#scherotzke) |
 |     | 13:00 | |
-| THU | 10:00 | [talk](#lastname) |
+| THU | 10:00 | [Tobias Dyckerhoff](#dyckerhoff) |
 |     | 11:00 | _coffee break_ |
-|     | 11:30 | [talk](#lastname) |
+|     | 11:30 | [Ben Davison](#davison) |
 |     | 12:30 |_lunch break_ |
-|     | 14:00 | [talk](#lastname) |
+|     | 14:00 | [Renata Picciotto](#picciotto) |
 |     | 15:00 | _coffee break_ |
-|     | 15:30 | [talk](#lastname) |
+|     | 15:30 | [Mauro Porta](#porta) |
 |     | 16:30 | |
-| FRI | 09:30 | [talk](#lastname) |
+| FRI | 09:30 | [Penka Georgieva](#georgieva) |
 |     | 10:30 | _coffee break_ |
-|     | 11:00 | [talk](#lastname) |
-|     | 12:00 | [talk](#lastname) |
+|     | 11:00 | [Étienne Mann](#mann) |
+|     | 12:00 | [Richard Thomas](#thomas) |
 |     | 13:00 | |
 
 ## ABSTRACTS
