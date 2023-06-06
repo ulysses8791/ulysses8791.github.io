@@ -10,52 +10,43 @@ This conference is part of the [thematic trimester 'Higher Structures in Geometr
 
 ## SCHEDULE {#top}
 
-==forthcoming==
-
-<!---
-
 |     |       |        |
 |:----|:-----:|-------:|
-| MON | 09:30 | registration |
-|     | 10:00 | _welcome coffee_ |
-|     | 10:30 | [Bernhard Keller](#keller) |
-|     | 11:30 | [Domenico Fiorenza](#fiorenza) |
+| MON | 10:00 | [talk](#lastname) |
+|     | 11:00 | _coffee break_ |
+|     | 11:30 | [talk](#lastname) |
 |     | 12:30 | _lunch break_ |
-|     | 14:15 | [Leonid Positselski](#positselski) |
-|     | 15:15 | [Dominique Mouhanna](#mouhanna) |
-|     | 15:30 | _coffee break_ |
-|     | 16:00 | [Wendy Lowen](#lowen) |
-|     | 17:00 | poster session |
+|     | 14:00 | [talk](#lastname) |
+|     | 15:00 | _coffee break_ |
+|     | 15:30 | [talk](#lastname) |
+|     | 16:30 | |
 |     | 18:00 | [reception](#reception) |
-| TUE | 09:00 | [Martin Markl](#markl) |
-|     | 10:00 | _coffee break_ |
-|     | 10:30 | [Julien Grivaux](#grivaux) |
-|     | 11:30 | [Shahn Majid](#majid) |
-|     | 12:30 |_lunch break_ |
-|     | 14:00 | [Kirsten Wickelgren](#wickelgren) |
+| TUE | 10:00 | [talk](#lastname) |
+|     | 11:00 | _coffee break_ |
+|     | 11:30 | [talk](#lastname) |
+|     | 12:30 | _lunch break_ |
+|     | 14:00 | [talk](#lastname) |
 |     | 15:00 | _coffee break_ |
-|     | 15:30 | [Adrian Ocneanu](#ocneanu) |
+|     | 15:30 | [talk](#lastname) |
 |     | 16:30 | |
-| WED | 09:00 | [Benoit Dhérin](#dherin) |
-|     | 10:00 | _coffee break_ |
-|     | 10:30 | [Olivier Schiffmann](#schiffmann) |
-|     | 11:30 | [Thomas Willwacher](#willwacher) |
-|     | 12:30 | |
-| THU | 09:00 | [Muriel Livernet](#livernet) |
-|     | 10:00 | _coffee break_ |
-|     | 10:30 | [Alexander Berglund](#berglund) |
-|     | 11:30 | [Christoph Schweigert](#schweigert) |
+| WED | 09:30 | [talk](#lastname) |
+|     | 10:30 | _coffee break_ |
+|     | 11:00 | [talk](#lastname) |
+|     | 12:00 | [talk](#lastname) |
+|     | 13:00 | |
+| THU | 10:00 | [talk](#lastname) |
+|     | 11:00 | _coffee break_ |
+|     | 11:30 | [talk](#lastname) |
 |     | 12:30 |_lunch break_ |
-|     | 14:00 | [Mikhail Kapranov](#kapranov) |
+|     | 14:00 | [talk](#lastname) |
 |     | 15:00 | _coffee break_ |
-|     | 15:30 | [Pavel Mnev](#mnev) |
+|     | 15:30 | [talk](#lastname) |
 |     | 16:30 | |
-| FRI | 09:00 | [Ralph Kaufmann](#kaufmann) |
-|     | 10:00 | _coffee break_ |
-|     | 10:30 | [Yuri Berest](#berest) |
-|     | 11:30 | |
-
---->
+| FRI | 09:30 | [talk](#lastname) |
+|     | 10:30 | _coffee break_ |
+|     | 11:00 | [talk](#lastname) |
+|     | 12:00 | [talk](#lastname) |
+|     | 13:00 | |
 
 ## ABSTRACTS
 
