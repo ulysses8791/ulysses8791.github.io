@@ -81,6 +81,14 @@ D-critical schemes and Artin stacks were introduced by Joyce in 2015, and play a
 
 ---
 
+### Etienne Mann _(Angers)_ {#mann}
+
+**Gromov-Witten theory with derived algebraic geometry**
+
+Using ideas from Toën-Schuerg-Vezzosi, one can define GW invariants via derived algebraic geometry. In this talk, we will see how some classical statements like Splitting axiom can be seen at the geometric level. An other nice application is to see a derived version of Quantum Lefchetz principle due to David Kern. Part of this work was done with Marco Robalo.
+
+---
+
 ### Cristina Manolache _(Sheffield)_ {#manolache}
 
 **Desingularisation of sheaves and reduced Gromov--Witten invariants**
