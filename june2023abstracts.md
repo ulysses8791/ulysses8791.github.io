@@ -111,7 +111,7 @@ This result is consistent with the "virtual Clemens conjecture" for the Calabi--
 
 ---
 
-### Wendy Lowen _(Antwerp)_
+### Wendy Lowen _(Antwerp)_ {#lowen}
 
 **Box operads and noncommutative schemes**
 
