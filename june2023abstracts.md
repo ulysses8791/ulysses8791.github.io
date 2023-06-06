@@ -97,6 +97,8 @@ Derived categories have come to play a decisive role in a wide range of topics. 
 
 Give a Gorenstein Calabi-Yau curve X, the moduli stack of bounded complexes of vector bundles on X admits a 0-shifted Poisson structure. For the component that is a G_m gerbe over a smooth scheme, the 0-shifted Poisson structure descends to an ordinary Poisson structure on its coarse moduli scheme, which we call a “modular Poisson structure”. In this talk we will survey some recent progress on the study of the modular Poisson structures. In particular we will give the example when X is the Kodaira cycle, where we establish a correspondence between certain torus orbits of vector bundle stack and projected open Richardson varieties on grassmannian via modular Poisson structure. 
 
+[back to top](#top)
+
 ---
 
 ### Yuan-Pin Lee _(Utah)_ {#lee}
@@ -117,6 +119,8 @@ This result is consistent with the "virtual Clemens conjecture" for the Calabi--
 
 In this talk, we discuss how the concept of algebraic deformation theory, dating back to Gerstenhaber’s deformation theory of algebras, can be applied in geometry leading to ‘noncommutative schemes’ in the sense of Van den Bergh. In the first part of the talk, we focus on models in projective geometry, like graded algebras and Z-algebras, and we describe deformations as ‘noncommutative projective schemes’ under the assumption that H^1(X,O_X) = 0 = H^2(X,O_X). In the second part of the talk, we take a local approach to schemes by deforming the structure sheaf, leading to ‘twisted presheaves’ or ‘prestacks’ in case H^2(X,O_X) is non-zero. Finally, we present an operadic structure on the Gerstenhaber-Schack complex of a prestack recently established in joint work with Hoang Dinh Van and Lander Hermans. This yields an underlying L_{infinity} structure governing deformations of prestacks.
 
+[back to top](#top)
+
 ---
 
 ### Etienne Mann _(Angers)_ {#mann}
@@ -124,6 +128,8 @@ In this talk, we discuss how the concept of algebraic deformation theory, dating
 **Gromov-Witten theory with derived algebraic geometry**
 
 Using ideas from Toën-Schuerg-Vezzosi, one can define GW invariants via derived algebraic geometry. In this talk, we will see how some classical statements like Splitting axiom can be seen at the geometric level. An other nice application is to see a derived version of Quantum Lefchetz principle due to David Kern. Part of this work was done with Marco Robalo.
+
+[back to top](#top)
 
 ---
 
