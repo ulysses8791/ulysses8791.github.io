@@ -51,6 +51,9 @@ This conference is part of the [thematic trimester 'Higher Structures in Geometr
 
 ## ABSTRACTS
 
+
+<!---
+
 ---
 
 ### Dominique Mouhanna, Deputy Director of IHP {#mouhanna}
@@ -58,6 +61,8 @@ This conference is part of the [thematic trimester 'Higher Structures in Geometr
 **Welcome Address**
 
 [back to top](#top)
+
+--->
 
 ---
 
@@ -81,11 +86,66 @@ The Hodge numbers of a Calabi-Yau threefold X are determined by the two numbers 
 
 ---
 
+### Ben Davison _(Edinburgh)_ {#davison}
+
+**Stacks of semistable sheaves on K3 surfaces**
+
+I'll explain some new results on the Borel-Moore homology of stacks of
+coherent sheaves on K3 surfaces, as well as intersection cohomology 
+of coarse moduli spaces. For nonprimitive Chern classes, these spaces 
+can be highly singular. Nonetheless, considering all multiples of a 
+given class simultaneously, we (in joint work with Lucien Hennecart 
+and Sebastian Schlegel Mejia) have a cohomological upgrade of the 
+integrality theorem from DT theory, connecting the intersection 
+cohomology of the coarse spaces with the Borel-Moore homology of 
+the stacks. Aside from the integrality theorem itself, applications 
+include a new description of Maulik-Toda-style GV invariants of local 
+K3 surfaces, a proof of the Halpern-Leistner purity conjecture for the 
+BM homology of the stack, and wall-crossing invariance results.
+
+[back to top](#top)
+
+---
+
 ### Tobias Dyckerhoff _(Hamburg)_ {#dyckerhoff}
 
 **Complexes of stable $\infty$-categories**
 
 Derived categories have come to play a decisive role in a wide range of topics. Several recent developments, in particular in the context of topological Fukaya categories, arouse the desire to study not just single categories, but rather complexes of categories. In this talk, we will discuss examples that arise in the vicinity of homological mirror symmetry, along with some results and conjectures involving them.
+
+[back to top](#top)
+
+---
+
+### Penka Georgieva _(Sorbonne Université)_ {#georgieva}
+
+**Klein TQFT and real Gromov-Witten invariants**
+
+TQFT structures appear in relation with Gromov-Witten invariants in at
+least two separate occasions. In this talk I will explain how the Real 
+Gromov-Witten theory of local 3-folds with base a Real curve gives rise
+to an extension of a 2d Klein TQFT. This gives strong implications for 
+the structure of the invariants on any compact Calabi-Yau 3-fold with 
+anti-symplectic involution.
+
+[back to top](#top)
+
+---
+
+### Rok Gregoric _(Texas)_ {#gregoric}
+
+**Shifting and shearing in spectral algebraic geometry**
+
+In derived algebraic geometry, vector bundles can be shifted. This 
+corresponds to the shearing operation on graded objects. However, 
+over the sphere spectrum, the notions of shifting vector bundles and of
+shearing gradings decouple, in parallel to the existence of two variants
+of the affine line. In this talk, we will discuss how the picture of 
+shifting and shearing can be reconciled by replacing the integers with 
+more exotic grading groups. We will see how this naturally leads to 
+considering the moduli stack of oriented formal groups, and through it 
+to chromatic homotopy theory and the motivic tau-deformation 
+phenomenon.
 
 [back to top](#top)
 
@@ -143,6 +203,49 @@ Gromov--Witten (GW) invariants of genus g, with g greater than one, do not count
 
 ---
 
+### Davesh Maulik _(MIT)_ {#maulik}
+
+**P=W conjecture for GL_n**
+
+The P=W conjecture, proposed by de Cataldo-Hausel-Migliorini in 
+2010, gives a link between the topology of the moduli space of Higgs 
+bundles on a curve and the Hodge theory of the corresponding 
+character variety, using non-abelian Hodge theory. In this talk, I will 
+explain this circle of ideas and discuss a recent proof of the conjecture 
+for GL_n (joint with Junliang Shen).
+
+[back to top](#top)
+
+---
+
+### Renata Picciotto _(Angers)_ {#picciotto}
+
+**The derived moduli of sections and virtual pushforwards**
+
+Derived algebraic geometry provides a powerful set of tools to 
+enumerative geometers, giving geometric spaces which encode the 
+"virtual structures" of the moduli problems . I will discuss a joint work 
+with D. Karn, E. Mann and C. Manolache in which we define a derived 
+enhancement for the moduli space of sections. This enriched space 
+neatly encodes the perfect obstruction theory and virtual structure 
+sheaves of many theories. Special cases include Gromov-Witten and 
+quasimaps theories. To illustrate the potential of this approach, I will 
+explain how we use local derived charts to prove a virtual pushforward
+formula between stable maps and quasimaps without relying on torus 
+localization.
+
+[back to top](#top)
+
+---
+
+### Mauro Porta _(Strasbourg)_ {#porta}
+
+**TBA**
+
+[back to top](#top)
+
+---
+
 ### Andrea Ricolfi _(SISSA)_ {#ricolfi}
 
 **d-critical structure(s) on the Quot scheme of points on a Calabi-Yau 3-fold**
@@ -158,6 +261,14 @@ D-critical schemes and Artin stacks were introduced by Joyce in 2015, and play a
 **Do we want a new foundation for "higher structures"?**
 
 The fundamental theorem of category theory is the Yoneda lemma, which in its simplest form identifies natural transformations between represented functors with morphisms between the representing objects. The $\infty$-categorical Yoneda lemma is surprisingly hard to prove --- at least in the traditional set-based foundations of mathematics. In this talk we'll describe the experience of developing $\infty$-category theory in an alternate foundation system based on homotopy type theory, in which constructions determined up to a contractible space of choices are genuinely "well-defined" and elementwise mappings are automatically homotopically-coherently functorial. In this setting the proof the $\infty$-categorical Yoneda lemma is arguably easier than the 1-categorical Yoneda lemma. We'll end by posing the question as to whether similar foundations would be useful for other "higher structures." This is based on joint work with Mike Shulman and involves computer formalizations written in collaboration with Nikolai Kudasov and Jonathan Weinberger.
+
+[back to top](#top)
+
+---
+
+### Sarah Scherotzke _(Luxembourg)_ {#scherotzke}
+
+**TBA**
 
 [back to top](#top)
 
