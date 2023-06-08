@@ -19,7 +19,7 @@ This conference is part of the [thematic trimester 'Higher Structures in Geometr
 |     | 12:30 | _lunch break_ |
 |     | 14:00 | [Y.P. Lee](#lee) |
 |     | 15:00 | _coffee break_ |
-|     | 15:30 | [Rok Gregoric](#gregoric) |
+|     | 15:30 | [Mauro Porta](#porta) |
 |     | 16:30 | |
 |     | 18:00 | [reception](#reception) |
 | TUE | 10:00 | [Emily Riehl](#riehl) |
@@ -41,7 +41,7 @@ This conference is part of the [thematic trimester 'Higher Structures in Geometr
 |     | 12:30 |_lunch break_ |
 |     | 14:00 | [Renata Picciotto](#picciotto) |
 |     | 15:00 | _coffee break_ |
-|     | 15:30 | [Mauro Porta](#porta) |
+|     | 15:30 | [Rok Gregoric](#gregoric) |
 |     | 16:30 | |
 | FRI | 09:30 | [Penka Georgieva](#georgieva) |
 |     | 10:30 | _coffee break_ |
