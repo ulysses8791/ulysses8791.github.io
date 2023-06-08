@@ -240,7 +240,9 @@ localization.
 
 ### Mauro Porta _(Strasbourg)_ {#porta}
 
-**TBA**
+**Categorical Hall algebras and their representations**
+
+Two-dimensional cohomological Hall algebras have been introduced for the first time by Schiffmann and Vasserot in 2009 and they soon proved to be an exceptional tool for the study of homology and G-theory of several kinds of moduli spaces. More recently they have been revisited with tools from derived geometry, which led to a natural categorification. A current limitation of the subject is that cohomological Hall algebras only yield positive halves of "whole" algebraic objects, such as Yangians or quantum loop groups. With Diaconescu and Sala, I have constructed categorical representations for these algebras, that generalize to a 1-dimensional setting the creation and destruction operators of Nakajima. I will survey this construction and discuss some more recent ongoing work in this direction.
 
 [back to top](#top)
 
