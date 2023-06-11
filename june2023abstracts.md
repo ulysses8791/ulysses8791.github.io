@@ -270,7 +270,9 @@ The fundamental theorem of category theory is the Yoneda lemma, which in its sim
 
 ### Sarah Scherotzke _(Luxembourg)_ {#scherotzke}
 
-**TBA**
+**Cotangent complexes of moduli spaces**
+
+We explain how shifted symplectic structures on derived stacks are connected to Calabi-Yau structures on differential graded categories. More concretely, we will show that the cotangent complex to the moduli stack of a differential graded category A is isomorphic to the moduli stack of the *Calabi-Yau completion* of A, answering a conjecture of Keller-Yeung. 
 
 [back to top](#top)
 
