@@ -26,14 +26,14 @@ This conference is part of the [thematic trimester 'Higher Structures in Geometr
 |     | 11:00 | _coffee break_ |
 |     | 11:30 | [Yukinobu Toda](#toda) |
 |     | 12:30 | _lunch break_ |
-|     | 14:00 | [Andrea Ricolfi](#ricolfi) |
+|     | 14:00 | [Sarah Scherotzke](#scherotzke) |
 |     | 15:00 | _coffee break_ |
 |     | 15:30 | [Jim Bryan](#bryan) |
 |     | 16:30 | |
 | WED | 09:30 | [Zheng Hua](#hua) |
 |     | 10:30 | _coffee break_ |
 |     | 11:00 | [Wendy Lowen](#lowen) |
-|     | 12:00 | [Sarah Scherotzke](#scherotzke) |
+|     | 12:00 | [Étienne Mann](#mann) |
 |     | 13:00 | |
 | THU | 10:00 | [Tobias Dyckerhoff](#dyckerhoff) |
 |     | 11:00 | _coffee break_ |
@@ -45,7 +45,7 @@ This conference is part of the [thematic trimester 'Higher Structures in Geometr
 |     | 16:30 | |
 | FRI | 09:30 | [Penka Georgieva](#georgieva) |
 |     | 10:30 | _coffee break_ |
-|     | 11:00 | [Étienne Mann](#mann) |
+|     | 11:00 | [Andrea Ricolfi](#ricolfi) |
 |     | 12:00 | [Richard Thomas](#thomas) |
 |     | 13:00 | |
 
