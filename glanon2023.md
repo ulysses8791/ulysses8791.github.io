@@ -31,6 +31,8 @@ This conference is part of the [thematic trimester 'Higher Structures in Geometr
 |     | 12:00 | Ping Xu | BV_infinity quantization of (-1) shifted derived Poisson manifolds |
 |     | 12:30 | _farewell_ | |
 
+<img alt="Eglise Saint-Marcel, Glanon" src="glanon.jpeg" height="500">
+
 <!--
 
 ## ABSTRACTS
