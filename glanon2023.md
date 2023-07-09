@@ -1,12 +1,14 @@
 # Higher Structures à la Glanonaise
 
+_En mémoire de notre ami et plus grand supporteur Jacky Michéa_
+
 July 10-11, 2023 @ [Institut Henri Poincaré](https://www.ihp.fr) in Paris
 
 + on-site: [11 Rue Pierre et Marie Curie, 75005 Paris](https://goo.gl/maps/wDzP5XtWjtxT2y896)
 
 + online: [livestream](https://www.ihp.fr/en/live)
 
-This conference is part of the [thematic trimester 'Higher Structures in Geometry and Mathematical Physics'](https://indico.math.cnrs.fr/category/569/).
+This workshop is part of the [thematic trimester 'Higher Structures in Geometry and Mathematical Physics'](https://indico.math.cnrs.fr/category/569/).
 
 ## SCHEDULE {#top}
 
@@ -19,17 +21,19 @@ This conference is part of the [thematic trimester 'Higher Structures in Geometr
 |     | 11:30 | Grégory Ginot | Quantization of BF-theory via higher structures |
 |     | 12:00 |_lunch break_ |
 |     | 15:15 | Camille Laurent-Gengoux | Higher structures for lower problems |
-|     | 15:45 | Friedrich Wagemann | Leibniz Cohomology |
+|     | 15:45 | Yaël Frégier | Differential Geometry in AI |
 |     | 16:15 | _coffee break_ | |
 |     | 17:00 | remote social meeting | A zoom link will be sent to you by email on Monday. |
 |     | 18:00 | _reception at IHP_ | |
 | TUE | 09:00 | Pierre Bieliavsky (remotely) | TBA |
-|     | 09:30 | Yaël Frégier | Differential Geometry in AI |
-|     | 10:00 | Mathieu Stiénon | Duflo-Kontsevich theorem |
+|     | 09:30 | Friedrich Wagemann | Leibniz Cohomology |
+|     | 10:00 | Mathieu Stiénon | Duflo-Kontsevich theorem for dg manifolds |
 |     | 10:30 | _coffee break_ | |
 |     | 11:30 | Olga Kravchenko | Symétrie et antisymétrie — c'est super |
 |     | 12:00 | Ping Xu | BV_infinity quantization of (-1) shifted derived Poisson manifolds |
 |     | 12:30 | _farewell_ | |
+
+[L'école de Glanon](https://goo.gl/maps/mBS5JEBKnBnPEtDv6)
 
 <img alt="Eglise Saint-Marcel, Glanon" src="glanon.jpeg" height="500">
 
