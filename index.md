@@ -18,6 +18,7 @@ PennStaters can also contact me in [Teams](https://office365.psu.edu) or [Google
 + [GAP 2023 — Homotopy Algebras and Higher Structures (May 22-26, 2023)](gap2023.html)
 + [Higher structures in Enumerative Geometry (June 12-16, 2023)](june2023.html)
 + [Dg manifolds in geometry and physics (July 3-7, 2023)](https://indico.math.cnrs.fr/event/7885/)
++ [Galnon 2023 (July 10-11, 2023)](glanon2023.html)
 
 [Workshop on “Higher Structures” at Penn State (December 1-4, 2022)](2022_PSU_workshop.html)
 
