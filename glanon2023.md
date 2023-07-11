@@ -17,7 +17,7 @@ This workshop is part of the [thematic trimester 'Higher Structures in Geometry 
 | MON | 09:00 | Sébastien Michéa & Philippe Bonneau | Introduction |
 |     | 09:30 | Alessandra Frabetti | Around a Glanon Groupoid |
 |     | 10:00 | _coffee break_ | |
-|     | 11:00 | Gilles Halbout | TBA |
+|     | 11:00 | Sébastien Michéa | Zero knowledge proofs of computation |
 |     | 11:30 | Grégory Ginot | Quantization of BF-theory via higher structures |
 |     | 12:00 |_lunch break_ |
 |     | 15:15 | Camille Laurent-Gengoux | Higher structures for lower problems |
@@ -25,8 +25,7 @@ This workshop is part of the [thematic trimester 'Higher Structures in Geometry 
 |     | 16:15 | _coffee break_ | |
 |     | 17:00 | remote social meeting | A zoom link will be sent to you by email on Monday. |
 |     | 18:00 | _reception at IHP_ | |
-| TUE | 09:00 | Pierre Bieliavsky (remotely) | TBA |
-|     | 09:30 | Friedrich Wagemann | Leibniz Cohomology |
+| TUE | 09:30 | Friedrich Wagemann | Leibniz Cohomology |
 |     | 10:00 | Mathieu Stiénon | Duflo-Kontsevich theorem for dg manifolds |
 |     | 10:30 | _coffee break_ | |
 |     | 11:30 | Olga Kravchenko | Symétrie et antisymétrie — c'est super |
