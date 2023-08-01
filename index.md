@@ -32,6 +32,13 @@ PennStaters can also contact me in [Teams](https://office365.psu.edu) or [Google
 
 ## Teaching
 
+### Fall 2023
+
+| Course | Days | Time | Room |
+| :----: | :--: | :--: | :--: |
+| [MATH 484.001](484_23F_syllabus.html) | Mon Wed Fri | 10:10 — 11:00 | Sackett Building 203 |
+
+
 ### Fall 2022
 
 | Course | Days | Time | Room |
