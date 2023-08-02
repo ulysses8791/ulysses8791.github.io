@@ -283,7 +283,7 @@ Students who have taken the original final examination are not permitted to take
 
 Information about the final project will appear in [Canvas](https://canvas.psu.edu) and [Gradescope](https://www.gradescope.com) on Week 13.
 
-The deadline for submission of your final project is __Monday December 11th at 09:00__.
+The deadline for submission of your final project is __Monday December 11, 2023 at 09:00__.
 
 ## Grades
 
@@ -310,7 +310,7 @@ Students who are *currently passing a course* but are unable to complete the cou
 
 ## Late-Drop
 
-Students may add/drop a course without academic penalty within the first six calendar days of the semester. A student may late drop a course within the first twelve weeks of the semester but accrues late drop credits equal to the number of credits in the dropped course. A baccalaureate student is limited to 16 late drop credits. *The late drop deadline for Fall 2023 is Friday November 10, 2023 at 23:59 (Eastern Time).*
+Students may add/drop a course without academic penalty within the first six calendar days of the semester. A student may late drop a course within the first twelve weeks of the semester but accrues late drop credits equal to the number of credits in the dropped course. A baccalaureate student is limited to 16 late drop credits. *The late drop deadline is Friday November 10, 2023 at 23:59 (Eastern Time).*
 
 ## Tutoring
 
