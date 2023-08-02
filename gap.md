@@ -1,6 +1,6 @@
 # [GAP: Geometry and Physics — Séminaire itinérant](http://www.geometryandphysics.org/)
 
-[2023: GAP 18 Paris, France](https://personal.psu.edu/mps16/hirsutes2023/gap2023.html)
+[2023: GAP 18 Paris, France](gap2023.html)
 
 <!-- (https://sites.google.com/view/gapxviiiparis/) --->
 
@@ -24,9 +24,9 @@
 
 [2010: GAP 8 Scalea, Italy](https://www.lpthe.jussieu.fr/~dito/gap8)
 
-[2009: GAP 7 Chengdu, China](https://personal.psu.edu/mps16/gap7.html) **<<< BROKEN**
+[2009: GAP 7 Chengdu, China](gap7.html) **<<< BROKEN**
 
-[2008: GAP 6 Barcelona, Spain](https://personal.psu.edu/mps16/GAPVI/index.html)
+[2008: GAP 6 Barcelona, Spain](GAPVI/index.html)
 
 [2007: GAP 5 Dakar, Senegal](https://personal.psu.edu/auw4/GAP5.html)
 
