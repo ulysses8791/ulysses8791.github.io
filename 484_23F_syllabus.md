@@ -413,7 +413,7 @@ The Office of the Vice Provost for Educational Equity serves as a catalyst and a
 
 All course materials students receive or to which students have online access are protected by copyright laws.
 Students may use course materials and make copies for their own use as needed, but unauthorized distribution and/or uploading of materials without the instructor’s express permission is strictly prohibited.
-University Policy [AD 40](https://policy.psu.edu/policies/ad40), the University Policy on Recording of Classroom Activities and Note Taking Services, addresses this issue.
+University Policy [AD 40: Recording of Classroom Activities and Note-Taking Services](https://policy.psu.edu/policies/ad40) addresses this issue.
 Students who engage in the unauthorized distribution of copyrighted materials may be held in violation of the University’s [Code of Conduct](https://studentaffairs.psu.edu/support-safety-conduct/student-conduct/code-conduct) and/or liable under Federal and State laws.
 
 A rising trend across the University is the posting and/or retrieval of material from course-share sites.
