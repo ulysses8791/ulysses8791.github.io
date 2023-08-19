@@ -8,9 +8,11 @@ Penn State, University Park, Fall 2023
 
 # MATH 484-001 — LINEAR OPTIMIZATION
 
-**Mon Wed Fri from 10:10 to 11:00 in Sackett Bldg 203**
-
 *The instructor reserves the right to make changes to this syllabus during the semester.*
+
+## Space-Time Coordinates
+
+Mon Wed Fri from 10:10 to 11:00 in Sackett Bldg 203
 
 ## Instructor
 
@@ -54,8 +56,6 @@ in [Canvas](https://canvas.psu.edu).
 
 We will use Microsoft [Teams](https://office365.psu.edu) for text-based communication outside the classroom.
 
-<!-- [Teams](https://office365.psu.edu) will be our main communication channel this semester. --->
-
 Depending on the issue at hand, we will use either the team channel or the private chat features of [Teams](https://office365.psu.edu).
 Watch [this video](https://www.youtube.com/watch?v=m1VQpIahGBc&list=PLXPr7gfUMmKwYKFSqoPN-aHQppI7rRQLf&index=4) to learn how team channels (i.e. public conversations) work. Watch [this other video](https://www.youtube.com/watch?v=y7HXc3yWAIk&list=PLXPr7gfUMmKwYKFSqoPN-aHQppI7rRQLf&index=6) to learn how chats (i.e. private one-on-one or group conversations) work.
 
@@ -97,7 +97,7 @@ Tentatively scheduled on **Tuesdays from 17:00 to 18:00**.
 | Pacific  | Wednesdays from 17:00 to 18:00 |
 | Alaska   | Wednesdays from 16:00 to 17:00 |
 | Hawaii   | Wednesdays from 15:00 to 16:00 |
-| UTC      |  Thursdays from 01:00 to 02:00 (from 00:00 to 01:00 when the US observes daylight saving time) |
+| UTC      | Thursdays from 01:00 to 02:00 (from 00:00 to 01:00 when the US observes daylight saving time) |
 
 -->
 
@@ -251,9 +251,9 @@ Should I have any reason to believe that you may have submitted work which is no
 
 ## Midterm Examinations
 
-Two 45-minutes midterm examination will be given in class on **Friday September 29, 2023** and **Wednesday November 15,2023**.
+Two 45-minutes midterm examinations will be given in class on **Friday September 29, 2023** and **Wednesday November 15, 2023**.
 
-No books, notes, or calculators may be used on the mid-term examination.
+No books, notes, or calculators may be used on mid-term examinations.
 
 If there is a *valid and documented* reason for not being available during the regular mid-term examination time-window, such as classes or other official university activities or illness, a student may arrange with the instructor to take a makeup exam.
 
