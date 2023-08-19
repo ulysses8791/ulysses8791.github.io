@@ -59,6 +59,10 @@ We will use Microsoft [Teams](https://office365.psu.edu) for text-based communic
 Depending on the issue at hand, we will use either the team channel or the private chat features of [Teams](https://office365.psu.edu).
 Watch [this video](https://www.youtube.com/watch?v=m1VQpIahGBc&list=PLXPr7gfUMmKwYKFSqoPN-aHQppI7rRQLf&index=4) to learn how team channels (i.e. public conversations) work. Watch [this other video](https://www.youtube.com/watch?v=y7HXc3yWAIk&list=PLXPr7gfUMmKwYKFSqoPN-aHQppI7rRQLf&index=6) to learn how chats (i.e. private one-on-one or group conversations) work.
 
+You will be added automatically to the team channel for the course.
+
+<!--
+
 Instructions for adding yourself to our team:
 
 1. Copy the team code you'll find in the ‘Course Administration’ module in [Canvas](https://canvas.psu.edu).
@@ -69,7 +73,9 @@ Instructions for adding yourself to our team:
 6. In the box for ‘Join a Team with a Code’, paste the Team Code.
 7. Click the ‘Join Team’ button.
 
-For your convenience, I encourage you to install the Teams app on your phone and/or tablet as well.
+-->
+
+For your convenience, I encourage you to install the Teams app on your phone and/or tablet.
 
 Please take a moment now to download the app and join the team as I will share important information with the class through [Teams](https://office365.psu.edu) rather than through [Canvas](https://canvas.psu.edu) announcements and your [Canvas](https://canvas.psu.edu) inbox. *Do it now!*
 
@@ -337,6 +343,12 @@ The National Suicide Prevention Lifeline provides 24/7, free and confidential su
 
 ## Academic Integrity
 
+According to Penn State policy [G-9: Academic Integrity](https://undergrad.psu.edu/aappm/G-9-academic-integrity.html), an academic integrity violation is “an intentional, unintentional, or attempted violation of course or assessment policies to gain an academic advantage or to advantage or disadvantage another student academically.” Unless your instructor tells you otherwise, you must complete all course work entirely on your own, using only sources that have been permitted by your instructor, and you may not assist other students with exams or other assessments.
+
+Using ideas, images, or word phrases created by another person (e.g., from Course Hero or Chegg) or by generative technology, such as ChatGPT, is prohibited in this course. You may not submit false or fabricated information, use the same academic work for credit in multiple courses, or share instructional content. Students with questions about academic integrity should ask their instructor before submitting work.
+
+Students facing allegations of academic misconduct may not drop/withdraw from the affected course unless they are cleared of wrongdoing (see [G-9: Academic Integrity](https://undergrad.psu.edu/aappm/G-9-academic-integrity.html)). Attempted drops will be prevented or reversed, and students will be expected to complete course work and meet course deadlines. Students who are found responsible for academic integrity violations face academic outcomes, which can be severe, and put themselves at jeopardy for other outcomes which may include ineligibility for Dean’s List, pass/fail elections, and grade forgiveness. Students may also face consequences from their home/major program and/or The Schreyer Honors College.
+
 Academic integrity is the pursuit of scholarly activity in an open, honest and responsible manner. Academic integrity is a basic guiding principle for all academic activity at The Pennsylvania State University, and all members of the University community are expected to act in accordance with this principle. Consistent with this expectation, the University's [Code of Conduct](https://studentaffairs.psu.edu/support-safety-conduct/student-conduct/code-conduct) states that all students should act with personal integrity, respect other students' dignity, rights and property, and help create and maintain an environment in which all can succeed through the fruits of their efforts. Academic integrity includes a commitment not to engage in or tolerate acts of falsification, misrepresentation or deception. Such acts of dishonesty violate the fundamental ethical principles of the University community and compromise the worth of work completed by others. In order to ensure all students have a fair and equal opportunity to succeed in this course, the Mathematics Department is committed to enforcing the University’s academic integrity policy. Below is a description of academic misconduct and the department’s responsibilities when misconduct is suspected.
 
 ### Academic Misconduct
@@ -377,16 +389,19 @@ Additional sanctions might include:
 
 In addition, the student will be unable to drop or withdraw from the course.
 
-Please see the [Eberly College of Science Academic Integrity homepage](https://science.psu.edu/current-students/integrity) for additional information and procedures. Also see the [Code of Ethics for Engineers](https://www.nspe.org/sites/default/files/resources/pdfs/Ethics/CodeofEthics/NSPECodeofEthicsforEngineers.pdf)  published by the National Society of Professional Engineers.
+Please see the [Eberly College of Science Academic Integrity homepage](https://science.psu.edu/current-students/integrity) for additional information and procedures. Also see the [Code of Ethics for Engineers](https://www.nspe.org/sites/default/files/resources/pdfs/Ethics/CodeofEthics/NSPECodeofEthicsforEngineers.pdf) published by the National Society of Professional Engineers.
 
 ## Students with Disabilities
 
 Penn State welcomes students with disabilities into the University's educational programs. If you have a disability-related need for reasonable academic adjustments in this course, contact Student Disability Resources at 814-863-1807 (V/TTY). For further information, please visit the [Student Disability Resources web site](https://equity.psu.edu/student-disability-resources/). In order to receive consideration for accommodations, you must contact SDR and provide documentation (see the documentation guidelines at the [Student Disability Resources web site](https://equity.psu.edu/student-disability-resources/)).
 If the documentation supports your request for reasonable accommodations, SDR will provide you with an accommodation letter identifying appropriate academic adjustments. Please share this letter with your instructors and discuss the accommodations with them as early in your courses as possible. You must follow this process for every semester that you request accommodations.
 
+<!--
 ## Code of Mutual Respect and Cooperation
 
 The Eberly College of Science [Code of Mutual Respect and Cooperation](https://science.psu.edu/climate-and-diversity/code-mutual-respect-and-cooperation) pertains to all members of the college community; faculty, staff, and students. The Code of Mutual Respect and Cooperation was developed to embody the values that we hope our faculty, staff, and students possess, consistent with the aspirational goals expressed in the Penn State Principles. The University is strongly committed to freedom of expression, and consequently, the Code does not constitute University or College policy, and is not intended to interfere in any way with an individual’s academic or personal freedoms. We hope, however, that individuals will voluntarily endorse the 12 principles set forth in the Code, thereby helping us make the Eberly College of Science a place where every individual feels respected and valued, as well as challenged and rewarded.
+
+-->
 
 ## Educational Equity
 
@@ -396,7 +411,7 @@ The Office of the Vice Provost for Educational Equity serves as a catalyst and a
 
 All course materials students receive or to which students have online access are protected by copyright laws.
 Students may use course materials and make copies for their own use as needed, but unauthorized distribution and/or uploading of materials without the instructor’s express permission is strictly prohibited.
-University Policy AD 40, the University Policy on Recording of Classroom Activities and Note Taking Services, addresses this issue.
+University Policy [AD 40](https://policy.psu.edu/policies/ad40), the University Policy on Recording of Classroom Activities and Note Taking Services, addresses this issue.
 Students who engage in the unauthorized distribution of copyrighted materials may be held in violation of the University’s [Code of Conduct](https://studentaffairs.psu.edu/support-safety-conduct/student-conduct/code-conduct) and/or liable under Federal and State laws.
 
 A rising trend across the University is the posting and/or retrieval of material from course-share sites.
