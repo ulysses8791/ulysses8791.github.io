@@ -59,6 +59,8 @@ We will use Microsoft [Teams](https://office365.psu.edu) for text-based communic
 Depending on the issue at hand, we will use either the team channel or the private chat features of [Teams](https://office365.psu.edu).
 Watch [this video](https://www.youtube.com/watch?v=m1VQpIahGBc&list=PLXPr7gfUMmKwYKFSqoPN-aHQppI7rRQLf&index=4) to learn how team channels (i.e. public conversations) work. Watch [this other video](https://www.youtube.com/watch?v=y7HXc3yWAIk&list=PLXPr7gfUMmKwYKFSqoPN-aHQppI7rRQLf&index=6) to learn how chats (i.e. private one-on-one or group conversations) work.
 
+Login to [Office 365](https://office365.psu.edu) with your PSU email address and password.
+
 You will be added automatically to the team channel for the course.
 
 <!--
