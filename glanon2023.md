@@ -32,6 +32,15 @@ This workshop is part of the [thematic trimester 'Higher Structures in Geometry 
 |     | 12:00 | Ping Xu | BV_infinity quantization of (-1) shifted derived Poisson manifolds |
 |     | 12:30 | _farewell_ | |
 
+## ORGANIZERS
+
+- Philippe Bonneau (Université de Lorraine)
+- Camille Laurent-Gengoux (Université de Lorraine)
+- Mathieu Stiénon (Penn State)
+- Ping Xu (Penn State)
+
+---
+
 [L'école de Glanon](https://goo.gl/maps/mBS5JEBKnBnPEtDv6)
 
 <img alt="Eglise Saint-Marcel, Glanon" src="glanon.jpeg" height="500">
