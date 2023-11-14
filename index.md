@@ -32,6 +32,13 @@ PennStaters can also contact me in [Teams](https://office365.psu.edu) or [Google
 
 ## Teaching
 
+### Spring 2024
+
+| Course | Days | Time | Room |
+| :----: | :--: | :--: | :--: |
+| [MATH 484.001](484_24S_syllabus.html) | Mon Wed Fri | 09:05 — 09:55 | Agricultural Science & Industries 107 |
+| [MATH 484.002](484_24S_syllabus.html) | Mon Wed Fri | 10:10 — 11:00 | Business Building 004 |
+
 ### Fall 2023
 
 | Course | Days | Time | Room |
