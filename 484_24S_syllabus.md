@@ -359,11 +359,13 @@ These services are provided by staff who welcome all students and embrace a phil
 - Penn State Crisis Line (24/7): 877-229-6400
 - PSU Crisis Text Line (24/7): Text LIONS to 741741
 
-### National **Suicide & Crisis Lifeline: 988**
+### 988 Suicide & Crisis Lifeline
+
+The 988 Lifeline is a national network of local crisis centers that provides free and confidential emotional support to people in suicidal crisis or emotional distress 24 hours a day, 7 days a week in the United States.
 
 There is hope. Providing 24/7, free and confidential support to people in suicidal crisis or emotional distress works. The Lifeline helps thousands of people overcome crisis situations every day.
 
-Need Support Now? If you or someone you know is struggling or in crisis, help is available. Call or text 988 or chat [988lifeline.org]().
+Need Support Now? If you or someone you know is struggling or in crisis, help is available. Call or text 988 or chat [988lifeline.org](https://988lifeline.org/chat).
 
 ## Academic Integrity
 
