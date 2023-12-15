@@ -1,4 +1,4 @@
-Penn State, University Park, Fall 2023
+Penn State, University Park, Spring 2024
 
 <!--
 
@@ -6,13 +6,21 @@ Penn State, University Park, Fall 2023
 
 -->
 
-# MATH 484.001 — LINEAR OPTIMIZATION
+# MATH 484 — LINEAR OPTIMIZATION
 
 *The instructor reserves the right to make changes to this syllabus during the semester.*
 
 ## Space-Time Coordinates
 
-Mon Wed Fri from 10:10 to 11:00 in Sackett Bldg 203
+| Section | Days | Time | Room |
+| :----: | :--: | :--: | :--: |
+| MATH 484.001 | Mon Wed Fri | 09:05 — 09:55 | Agricultural Science & Industries 107 |
+| MATH 484.002 | Mon Wed Fri | 10:10 — 11:00 | Business Building 004 |
+
+Classes begin on Monday January 8, 2024
+and end on Friday April 26, 2024.
+
+Spring break: March 4-8, 2024.
 
 ## Instructor
 
@@ -51,6 +59,8 @@ automatically the first time you click on the "Gradescope" tab
 in [Canvas](https://canvas.psu.edu).
 
 [Using Gradescope as a Student](https://help.gradescope.com/category/cyk4ij2dwi-student-workflow)
+
+Once an assignment is marked, grades are available in [Gradescope](https://www.gradescope.com) instead of [Canvas](https://canvas.psu.edu).
 
 ## Instant Messaging
 
@@ -173,6 +183,17 @@ We will aim to cover the first four chapters of the book. We will learn how to s
 - 4.6 Farkas' Lemma
 - 4.7 From separating hyperplanes to duality
 
+## Class Attendance
+
+Regular class attendance is one of the most important ways that students learn and understand course materials. It is a critical element of student success. **Accordingly, it is the policy of the University that class attendance is expected.** Students should attend every scheduled class and should be held responsible for all work covered in the course.
+Class attendance is expected regardless of the format of the course and this expectation applies equally to students in face-to-face, online, and hybrid courses.
+
+[University Faculty Senate Policy 42-27](https://senate.psu.edu/policies-and-rules-for-undergraduate-students/42-00-acquisition-of-credit/#42-27)
+
+[Academic Administrative Policies and Procedures Manual, E-11: Class Attendance and Evaluation of Student Performance](https://undergrad.psu.edu/aappm/E-11-class-attendance.html)
+
+[University Excused Class Absence Form](https://undergrad.psu.edu/aappm/class_absence_v3.pdf)
+
 ## Weekly Problem Sets
 
 Problem sets will be assigned weekly on Friday and are due one week later.
@@ -253,7 +274,7 @@ Should I have any reason to believe that you may have submitted work which is no
 
 ## Midterm Examinations
 
-Two 45-minutes midterm examinations will be given in class on **Friday September 29, 2023** and **Wednesday November 15, 2023**.
+Two 45-minutes midterm examinations will be given in class on **Wednesday February 14, 2024** and **Wednesday April 3, 2024**.
 
 No books, notes, or calculators may be used on mid-term examinations.
 
@@ -291,7 +312,7 @@ Students who have taken the original final examination are not permitted to take
 
 Information about the final project will appear in [Canvas](https://canvas.psu.edu) and [Gradescope](https://www.gradescope.com) on Week 13.
 
-The deadline for submission of your final project is __Monday December 11, 2023 at 09:00__.
+The deadline for submission of your final project is __Monday April 29, 2024 at 09:00__.
 
 ## Grades
 
@@ -314,11 +335,11 @@ Your grade will be based *exclusively* on the problem sets, the midterm examinat
 
 ## Deferred Grades
 
-Students who are *currently passing a course* but are unable to complete the course because of illness or emergency may be granted a deferred grade which will allow the student to complete the course within the first several weeks of the following semester. Note that deferred grades are limited to those students who can verify and document a valid reason for not being able to take the final examination. For more information see [Deferred Grades](https://www.registrar.psu.edu/grades/deferred.cfm).
+Students who are *currently passing a course* but are unable to complete the course because of illness or emergency may be granted a deferred grade which will allow the student to complete the course within the first several weeks of the following semester. Note that deferred grades are limited to those students who can verify and document a valid reason for not being able to take the final examination. A deferred grade which is not changed to a letter grade by the instructor by 10 weeks after the course ends will automatically become an F. For more information see [Deferred Grades](https://www.registrar.psu.edu/grades/deferred.cfm).
 
 ## Late-Drop
 
-Students may add/drop a course without academic penalty within the first six calendar days of the semester. A student may late drop a course within the first twelve weeks of the semester but accrues late drop credits equal to the number of credits in the dropped course. A baccalaureate student is limited to 16 late drop credits. *The late drop deadline is Friday November 10, 2023 at 23:59 (Eastern Time).*
+Students may add/drop a course without academic penalty within the first six calendar days of the semester. A student may late drop a course within the first twelve weeks of the semester but accrues late drop credits equal to the number of credits in the dropped course. A baccalaureate student is limited to 16 late drop credits. *The late drop deadline is Friday April 5, 2024 at 23:59 (Eastern Time).*
 
 ## Tutoring
 
@@ -338,10 +359,11 @@ These services are provided by staff who welcome all students and embrace a phil
 - Penn State Crisis Line (24/7): 877-229-6400
 - PSU Crisis Text Line (24/7): Text LIONS to 741741
 
-The National Suicide Prevention Lifeline provides 24/7, free and confidential support for people in distress, prevention and crisis resources for you or your loved ones, and best practices for professionals.
+### National **Suicide & Crisis Lifeline: 988**
 
-- [National Suicide Prevention Lifeline](https://suicidepreventionlifeline.org/): 1-800-273-8255 (free call from any phone in the US)
-- [Red Nacional de Prevención del Suicidio](https://suicidepreventionlifeline.org/help-yourself/en-espanol/): 1-888-628-9454 (Las llamadas son gratuitas desde cualquier teléfono en los Estados Unidos.)
+There is hope. Providing 24/7, free and confidential support to people in suicidal crisis or emotional distress works. The Lifeline helps thousands of people overcome crisis situations every day.
+
+Need Support Now? If you or someone you know is struggling or in crisis, help is available. Call or text 988 or chat [988lifeline.org]().
 
 ## Academic Integrity
 
@@ -434,3 +456,23 @@ including online or through other media, without the express written consent of 
 or appropriate University administrator. Students who engage in the unauthorized distribution
 of class recordings may be held in violation of the University’s [Code of Conduct](https://studentaffairs.psu.edu/support-safety-conduct/student-conduct/code-conduct),
 and/or liable under Federal and State laws.
+
+## Calendar
+
+| Week | Mon | Wed | Fri |
+|:----:|:---:|:---:|:---:|
+| 1 | Jan 8 | Jan 10 | Jan 12 |
+| 2 | | Jan 17 | Jan 19 |
+| 3 | Jan 22 | Jan 24 | Jan 26 |
+| 4 | Jan 29 | Jan 31 | Feb 2 |
+| 5 | Feb 5 | Feb 7 | Feb 9 |
+| 6 | Feb 12 | **Feb 14** | Feb 16 |
+| 7 | Feb 19 | Feb 21 | Feb 23 |
+| 8 | Feb 26 | Feb 28 | Mar 1 |
+| 9 | Mar 11 | Mar 13 | Mar 15 |
+| 10 | Mar 18 | Mar 20 | Mar 22 |
+| 11 | Mar 25 | Mar 27 | Mar 29 |
+| 12 | Apr 1 | **Apr 3** | Apr 5 |
+| 13 | Apr 8 | Apr 10 | Apr 12 |
+| 14 | Apr 15 | Apr 17 | Apr 19 |
+| 15 | Apr 22 | Apr 24 | Apr 26 |
