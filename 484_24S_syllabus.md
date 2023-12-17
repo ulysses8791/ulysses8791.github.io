@@ -173,16 +173,14 @@ We will aim to cover the first four chapters of the book. We will learn how to s
 - 3.1 Optimality of a basic feasible solution
 - 3.2 Development of the simplex method
 - 3.3 Implementations of the simplex method
-- 3.4 Anticycling
 - 3.5 Finding an initial basic feasible solution
 - 3.4 Anticycling
 
 ### Chapter 4 — Duality theory
 
 - 4.2 The dual of a LO problem
-- 4.3 The duality theorem
-- 4.6 Farkas' Lemma
-- 4.7 From separating hyperplanes to duality
+- 4.3 The weak and strong duality theorems and the complementary slackness conditions
+- 4.6 & 4.7 Farkas' Lemma and the Strong Duality Theorem
 - 4.8 Cones and extreme rays
 - 4.9 Representations of polyhedra
 - 4.5 Dual simplex method
@@ -312,7 +310,7 @@ Students who have taken the original final examination are not permitted to take
 
 ## Final Project
 
-Information about the final project will appear in [Canvas](https://canvas.psu.edu) and [Gradescope](https://www.gradescope.com) on Week 13.
+Information about the final project will appear in [Gradescope](https://www.gradescope.com) on Week 13.
 
 The deadline for submission of your final project is __Monday April 29, 2024 at 09:00__.
 
