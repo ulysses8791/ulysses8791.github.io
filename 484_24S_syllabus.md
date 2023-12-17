@@ -143,6 +143,10 @@ No-cost to you. Use your PSU email address and password to log in.
 
 Dimitris Bertsimas and John N. Tsitsiklis, Introduction to Linear Optimization, Athena Scientific / Dynamic Ideas, ISBN 978-1-886529-19-9
 
+## Why Learn Linear Programming?
+
+Linear programming is widely used by Fortune 100 companies, including tech giants like Apple and Google, retail behemoth Walmart, and leading airlines like Air France and Lufthansa. These companies use linear and mixed-integer linear programming to optimize their operational efficiency. For example, airlines use mathematical programming for flight routing, staffing, and maintenance, while professional sports leagues like the NFL use it for game scheduling. Manufacturing companies also use it for procurement, production, and distribution planning.
+
 ## Prerequisites
 
 MATH 220 (or any equivalent introductory Linear Algebra course) is an absolute prerequisite for MATH 484. Section 1.5 of our textbook briefly reviews the Linear Algebra material that you should be familiar with and explains the notational conventions adopted in the textbook. Read that section on your own as soon as you get hold of your copy of the textbook.
