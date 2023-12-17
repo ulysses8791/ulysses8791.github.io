@@ -175,6 +175,7 @@ We will aim to cover the first four chapters of the book. We will learn how to s
 - 3.3 Implementations of the simplex method
 - 3.4 Anticycling
 - 3.5 Finding an initial basic feasible solution
+- 3.4 Anticycling
 
 ### Chapter 4 — Duality theory
 
@@ -182,17 +183,18 @@ We will aim to cover the first four chapters of the book. We will learn how to s
 - 4.3 The duality theorem
 - 4.6 Farkas' Lemma
 - 4.7 From separating hyperplanes to duality
+- 4.8 Cones and extreme rays
+- 4.9 Representations of polyhedra
+- 4.5 Dual simplex method
 
 ## Class Attendance
 
 Regular class attendance is one of the most important ways that students learn and understand course materials. It is a critical element of student success. **Accordingly, it is the policy of the University that class attendance is expected.** Students should attend every scheduled class and should be held responsible for all work covered in the course.
 Class attendance is expected regardless of the format of the course and this expectation applies equally to students in face-to-face, online, and hybrid courses.
 
-[University Faculty Senate Policy 42-27](https://senate.psu.edu/policies-and-rules-for-undergraduate-students/42-00-acquisition-of-credit/#42-27)
-
-[Academic Administrative Policies and Procedures Manual, E-11: Class Attendance and Evaluation of Student Performance](https://undergrad.psu.edu/aappm/E-11-class-attendance.html)
-
-[University Excused Class Absence Form](https://undergrad.psu.edu/aappm/class_absence_v3.pdf)
+- [University Faculty Senate Policy 42-27](https://senate.psu.edu/policies-and-rules-for-undergraduate-students/42-00-acquisition-of-credit/#42-27)
+- [Academic Administrative Policies and Procedures Manual, E-11: Class Attendance and Evaluation of Student Performance](https://undergrad.psu.edu/aappm/E-11-class-attendance.html)
+- [University Excused Class Absence Form](https://undergrad.psu.edu/aappm/class_absence_v3.pdf)
 
 ## Weekly Problem Sets
 
