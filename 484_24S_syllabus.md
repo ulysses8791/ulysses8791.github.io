@@ -316,7 +316,7 @@ Students who have taken the original final examination are not permitted to take
 
 Information about the final project will appear in [Gradescope](https://www.gradescope.com) on Week 13.
 
-The deadline for submission of your final project is Wednesday May 1, 2024 at 23:59 ~~__Monday April 29, 2024 at 09:00__~~.
+The deadline for submission of your final project is ~~Monday April 29, 2024 at 09:00~~ __Wednesday May 1, 2024 at 23:59__.
 
 ## Grades
 
