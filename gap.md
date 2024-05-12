@@ -4,7 +4,7 @@
 
 <!-- (https://sites.google.com/view/gapxviiiparis/) --->
 
-[~~2020~~ 2022: GAP 17 Vancouver, Canada](https://sites.google.com/view/gap-xvii-vancouver/) — [Abstracts, Slides, and Video Recordings](gap2022/abstracts.html)
+[~~2020~~ 2022: GAP 17 Vancouver, Canada](https://sites.google.com/view/gap-xvii-vancouver/) — [Abstracts, Slides, and Video Recordings](gap2022abstracts.html)
 
 [2018: GAP 16 Timisoara, Romania](https://sites.google.com/view/gapseminaireitinerant/gap-xvi/gap-xvi-timi%C8%99oara)
 
