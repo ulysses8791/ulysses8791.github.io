@@ -64,7 +64,7 @@ Slides: [lecture 1](keller_1.pdf), [lecture 2](keller_2.pdf), [lecture 3](keller
 
 **Higher representations and Heegaard-Floer theory**
 
-I will discuss 2-representation theory for the super-Lie algebra gl(1|1). In that setting, one can define a tensor product that does not involve the A-infinity constructions required in the Kac-Moody case. I will explain how this construction provides a partial 2-dimensional topological field theory that extends Douglas, Lipshitz and Manolescu's cornered Heegard-Floer theory. This is expected to extend to a 4-dimensional theory containing Ozsvath and Szabo's theory. (joint work with Andy Manion)
+I will discuss 2-representation theory for the super-Lie algebra gl(1/1). In that setting, one can define a tensor product that does not involve the A-infinity constructions required in the Kac-Moody case. I will explain how this construction provides a partial 2-dimensional topological field theory that extends Douglas, Lipshitz and Manolescu's cornered Heegard-Floer theory. This is expected to extend to a 4-dimensional theory containing Ozsvath and Szabo's theory. (joint work with Andy Manion)
 
 Slides: [lecture 1](rouquier_1.pdf), [lecture 2](rouquier_2.pdf), [lecture 3](rouquier_3.pdf)
 
