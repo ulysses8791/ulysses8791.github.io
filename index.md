@@ -6,9 +6,11 @@
 
 [stienon@psu.edu](mailto:stienon@psu.edu) 
 
-PennStaters can also contact me in [Teams](https://office365.psu.edu) or [Google Chat](https://google.psu.edu).
+PennStaters can also contact me in [Teams](https://office365.psu.edu).
 
 ## Research
+
+[GAP 2024 — Moduli Spaces and Higher Structures (Sep 9-13, 2024)](https://www1.mat.uniroma1.it/~fiorenza/GAP-Rome/GAP-XIX-2024-Rome.html)
 
 [HIRSUTES2023 — thematic trimester on higher structures in geometry and mathematical physics](https://indico.math.cnrs.fr/event/7893/)
 
@@ -32,6 +34,14 @@ PennStaters can also contact me in [Teams](https://office365.psu.edu) or [Google
 
 ## Teaching
 
+### Fall 2024
+
+| Course | Days | Time | Room |
+| :----: | :--: | :--: | :--: |
+| [MATH 220H](220H_24F_syllabus.html) | Mon Wed Fri | 09:05 — 09:55 | Willard Building 369 |
+| [MATH 484.001](484_24F_syllabus.html) | Mon Wed Fri | 10:10 — 11:00 | Osmond Lab 105 |
+| [MATH 484.003](484_24F_syllabus.html) | Mon Wed Fri | 11:15 — 12:05 | Sackett Building 319 |
+
 ### Spring 2024
 
 | Course | Days | Time | Room |
@@ -44,7 +54,6 @@ PennStaters can also contact me in [Teams](https://office365.psu.edu) or [Google
 | Course | Days | Time | Room |
 | :----: | :--: | :--: | :--: |
 | [MATH 484.001](484_23F_syllabus.html) | Mon Wed Fri | 10:10 — 11:00 | Sackett Building 203 |
-
 
 ### Fall 2022
 
