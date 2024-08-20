@@ -2,7 +2,7 @@
 
 [Department of Mathematics](https://science.psu.edu/math), [Pennsylvania State University](https://www.psu.edu/)
 
-[325 McAllister Building, 250 Pollock Road, University Park, PA 16802](https://goo.gl/maps/vgow7L7nij8Nyfwb7)
+[325 McAllister Building, 250 Pollock Road, University Park, PA 16802](https://maps.app.goo.gl/pTLMU5fUBmwiVxDQ8?g_st=com.google.maps.preview.copy)
 
 [stienon@psu.edu](mailto:stienon@psu.edu) 
 
