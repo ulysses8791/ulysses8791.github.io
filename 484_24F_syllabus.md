@@ -65,9 +65,10 @@ and [Zoom](https://zoom.psu.edu) for virtual office hours.
 
 [Gradescope](https://www.gradescope.com) is a website designed to streamline the process of submitting, grading, and providing feedback on assignments. It allows students to submit their work online. Gradescope is widely used in higher education to improve the grading process.
 
+Instructions for adding yourself to the course on [Gradescope](https://www.gradescope.com):
 1. If you don't already have a [Gradescope](https://www.gradescope.com) account, please create one using your `abc123@psu.edu` email address as your username.
 2. Use the code provided by your instructor to add MATH 484 to your account. See [`joining a course using a course code'](https://guides.gradescope.com/hc/en-us/articles/21853290544909-Joining-a-Course#h_01HGJZZGH2MPTC934NGG9Y01Q0).
-3. Install the Gradescope app [(iOS)](https://apps.apple.com/us/app/gradescope/id1563280912) [(android)](https://play.google.com/store/apps/details?id=com.gradescope.student&hl=en_US) on your mobile device. You will use it to scan your homework and submit it for credit.
+3. Install the **Gradescope mobile app** [(iOS)](https://apps.apple.com/us/app/gradescope/id1563280912) [(android)](https://play.google.com/store/apps/details?id=com.gradescope.student&hl=en_US) on your phone and/or tablet. You will use it to scan your homework and submit it for credit.
 
 Once an assignment is graded, the scores are available in [Gradescope](https://www.gradescope.com).
 
@@ -116,7 +117,7 @@ Instructions for adding yourself to our team:
 
 -->
 
-For your convenience, I encourage you to install the Teams app [(iOS)](https://apps.apple.com/us/app/microsoft-teams/id1113153706) [(android)](https://play.google.com/store/apps/details?id=com.microsoft.teams&hl=en_US) on your phone and/or tablet. Please take a moment now to download the app and join the team as I will share important information with the class through [Teams](https://office365.psu.edu) exclusively. *Do it now!*
+For your convenience, I encourage you to install the **Teams mobile app** [(iOS)](https://apps.apple.com/us/app/microsoft-teams/id1113153706) [(android)](https://play.google.com/store/apps/details?id=com.microsoft.teams&hl=en_US) on your phone and/or tablet. Please take a moment now to download the app and join the team as I will share important information with the class through [Teams](https://office365.psu.edu) exclusively. *Do it now!*
 
 <!--
 
@@ -148,6 +149,8 @@ Should you prefer to save your work locally on your device, you might want to us
 |SwiftScan|[iOS](https://apps.apple.com/us/app/swiftscan-document-scanner/id834854351)|[android](https://play.google.com/store/apps/details?id=net.doo.snap&hl=en_US&gl=US)|
 
 -->
+
+[How to message your class and other students in Microsoft Teams](https://www.youtube.com/watch?v=GBVnmTEGScI)
 
 ## Virtual Office Hours
 
@@ -276,8 +279,7 @@ Once you have completed the assignment for the week, you will scan your work and
 
 **Submit your work well ahead of the deadline.**
 Assignments submitted late will automatically be marked as such in
-[Gradescope](https://www.gradescope.com) and the
-[Canvas](https://canvas.psu.edu) grade-book.
+[Gradescope](https://www.gradescope.com).
 If you submit too many assignments late, I reserve the right to apply a penalty to your grade.
 
 Problem Sets will lock 48 hours after their respective due dates
