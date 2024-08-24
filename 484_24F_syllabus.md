@@ -124,6 +124,8 @@ rather than through [Canvas](https://canvas.psu.edu) announcements and your [Can
 
 -->
 
+<!--
+
 ### Scanning Apps for Your Phones and Tablets
 
 The easiest way to scan and submit your work is to use the [Gradescope](https://www.gradescope.com) app for your phone.
@@ -134,7 +136,6 @@ The mobile apps for [Microsoft OneDrive](https://office365.psu.edu) and [Google 
 
 Should you prefer to save your work locally on your device, you might want to use either Microsoft Lens or [SwiftScan](https://swiftscan.app).
 
--->
 
 ||||
 |---|---|---|
@@ -142,7 +143,6 @@ Should you prefer to save your work locally on your device, you might want to us
 |OneDrive|[iOS](https://apps.apple.com/us/app/microsoft-onedrive/id477537958)|[android](https://play.google.com/store/apps/details?id=com.microsoft.skydrive&hl=en_US&gl=US)|
 |Google Drive|[iOS](https://apps.apple.com/us/app/google-drive/id507874739)|[android](https://play.google.com/store/apps/details?id=com.google.android.apps.docs&hl=en_US&gl=US)|
 
-<!--
 
 |Microsoft Lens|[iOS](https://apps.apple.com/us/app/microsoft-lens-pdf-scanner/id975925059)|[android](https://play.google.com/store/apps/details?id=com.microsoft.office.officelens&hl=en_US&gl=US)|
 |SwiftScan|[iOS](https://apps.apple.com/us/app/swiftscan-document-scanner/id834854351)|[android](https://play.google.com/store/apps/details?id=net.doo.snap&hl=en_US&gl=US)|
