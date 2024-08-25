@@ -72,6 +72,10 @@ Instructions for adding yourself to the course on [Gradescope](https://www.grade
 
 Once an assignment is graded, the scores are available in [Gradescope](https://www.gradescope.com).
 
+[How to submit homework on the Gradescope mobile app](https://youtu.be/quBWbQ5opT0?feature=shared)
+
+[How to submit homework on the Gradescope website](https://youtu.be/nksyA0s-Geo?feature=shared)
+
 [Using Gradescope as a Student](https://guides.gradescope.com/hc/en-us/categories/21540043398413-Student-Center)
 
 <!--
