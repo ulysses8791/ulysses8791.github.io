@@ -83,19 +83,29 @@ You will find the meeting link for virtual office hours in [Teams](https://teams
 
 ## Required Textbook
 
-“David Lay, Linear Algebra and its Applications, Pearson”
+**David Lay, *Linear Algebra and Its Applications*, Pearson**
 
-The content is virtually the same in all editions. The only difference I noticed is that the exercises are changed from one edition to the next. Most problems are exactly the same but the numerical values in each problem are changed. Thus, no matter which edition you get, you will be solving the same problems but with different numbers. If I were you, I’d buy the cheapest used copy I could find that is still in good physical shape.
+The content is virtually the same in all editions. The only difference is that the exercises change from one edition to the next. Most problems are exactly the same, but the numerical values in each problem are different. Thus, no matter which edition you get, you will be solving the same problems but with different numbers. If I were you, I’d buy the cheapest used copy I could find that is still in good physical shape.
 
-Be smart: buy a past edition of the textbook and save money.
+Be smart: buy a previous edition of the textbook and save money.
 
 ## Course Description
 
-Honors course in systems of linear equations; matrix algebra; eigenvalues and eigenvectors.
+This honors course provides an **introduction to linear algebra** with a focus on solving systems of linear equations. Topics covered include:
 
-This course is intended as an introduction to linear algebra with a focus on solving systems for linear equations. Topics include systems of linear equations, row reduction and echelon forms, linear independence, introduction to linear transformations, matrix operations, inverse matrices, dimension and rank, determinants, eigenvalues, eigenvectors, diagonalization, and orthogonality.
+- Systems of linear equations
+- Row reduction and echelon forms
+- Linear independence
+- Introduction to linear transformations
+- Matrix operations
+- Inverse matrices
+- Dimension and rank
+- Determinants
+- Eigenvalues and eigenvectors
+- Diagonalization
+- Orthogonality
 
-In contrast to the non-honors version of this course, the honors version is typically more theoretical and will often include more sophisticated problems. Moreover, certain topics are often discussed in more depth and are sometimes expanded to include applications which are not visited in the non-honors version of the course.
+Compared to the non-honors version, this course is typically more theoretical and includes more sophisticated problems. Additionally, certain topics are discussed in greater depth and may include applications not covered in the non-honors version.
 
 ## Prerequisites
 
@@ -130,7 +140,7 @@ MATH 110, MATH 140, or MATH 140H
 - linear systems (Lay 1.1)
 - row reduction algorithm (Lay 1.2)
 - linear combintations (Lay 1.3)
-- homogeneous linear systems (1.5)
+- homogeneous linear systems (Lay 1.5)
 
 ### spanning sets and linearly independent sets
 
@@ -170,6 +180,14 @@ MATH 110, MATH 140, or MATH 140H
 - diagonalization (Lay 5.3)
 - spectral theorem for symmetric matrices (Lay 7.1)
 
+### matrix factorizations
+
+- singular value decomposition (Lay 7.4)
+- LU factorization (Lay 2.5)
+- QR factorization (Lay 6.4)
+
+<!--
+
 ## Learning Objectives
 
 1. Analyze and solve a system of linear equations.
@@ -181,6 +199,19 @@ linear transformation.
 orthogonality.
 5. Use linear algebra terminology to express problems in branches of science; communicate solutions back in 
 terms of the original context.
+
+-->
+
+## Key Learning Objectives
+
+1. **Understand Systems of Linear Equations**: Analyze and solve systems of linear equations using various methods.
+2. **Matrix Algebra**: Perform matrix operations and understand their properties, including inverses and factorizations.
+3. **Determinants**: Calculate determinants and understand their significance in linear algebra.
+4. **Vector Spaces**: Grasp the concepts of vector spaces, subspaces, bases, and dimensions.
+5. **Eigenvalues and Eigenvectors**: Compute eigenvalues and eigenvectors and apply them to problems involving diagonalization.
+6. **Orthogonality**: Understand orthogonality, orthogonal sets, and projections, and apply these concepts to least-squares problems.
+7. **Linear Transformations**: Explore linear transformations and their matrix representations.
+8. **Applications**: Apply linear algebra concepts to real-world problems in various fields such as computer graphics, engineering, and science.
 
 ## Class Attendance
 
@@ -248,9 +279,9 @@ If you miss the mid-term exam without an official excuse (such as illness or off
 
 A *comprehensive* final examination will be given during the final examination period, December 16-20, 2024. The final 
 examination may be scheduled on any day of finals week. Do not plan to leave 
-University Park until after Friday, December 20. Students may access their final exam schedules on Monday, 
-September 30, through their [LionPATH](https://lionpath.psu.edu) account. Notification of conflicts is given on the student's final exam 
-schedule. Final exam conflicts must be submitted through Lionpath by Sunday, October 20.
+University Park until after Friday, December 20, 2024. Students may access their final exam schedules on Monday, 
+September 30, 2024, through their [LionPATH](https://lionpath.psu.edu) account. Notification of conflicts is given on the student's final exam 
+schedule. Final exam conflicts must be submitted through Lionpath by Sunday, October 20, 2024.
 
 <!--
 
