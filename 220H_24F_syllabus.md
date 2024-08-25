@@ -326,7 +326,7 @@ Assignments will be weighted as follows:
 | Weekly Problem Sets        |    40% |
 | First Midterm Examination  |    15% |
 | Second Midterm Examination |    15% |
-| Final Project              |    30% |
+| Final Examination          |    30% |
 
 Course letter grades will be assigned as follows:
 
