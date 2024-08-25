@@ -204,7 +204,7 @@ terms of the original context.
 
 ## Key Learning Objectives
 
-1. **Understand Systems of Linear Equations**: Analyze and solve systems of linear equations using various methods.
+1. **Systems of Linear Equations**: Analyze and solve systems of linear equations using various methods.
 2. **Matrix Algebra**: Perform matrix operations and understand their properties, including inverses and factorizations.
 3. **Determinants**: Calculate determinants and understand their significance in linear algebra.
 4. **Vector Spaces**: Grasp the concepts of vector spaces, subspaces, bases, and dimensions.
