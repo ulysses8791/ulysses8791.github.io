@@ -114,7 +114,7 @@ Compared to the non-honors version, this course is typically more theoretical an
 
 MATH 110, MATH 140, or MATH 140H
 
-## Course Outline
+## Tentative Course Outline
 
 ### geometry in $\mathbb{R}^3$
 
@@ -278,7 +278,7 @@ If you miss the mid-term exam without an official excuse (such as illness or off
 
 **Forgetting the date or time of an examination is not a valid excuse.**
 
-## Final Examination
+### Final Examination
 
 A *comprehensive* final examination will be given during the final examination period, December 16-20, 2024. The final 
 examination may be scheduled on any day of finals week. Do not plan to leave 
