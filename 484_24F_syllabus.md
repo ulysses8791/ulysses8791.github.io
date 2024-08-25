@@ -20,7 +20,7 @@ Penn State, University Park, Fall 2024
 Classes begin on Monday August 26, 2024
 and end on Friday December 13, 2024.
 
-Spring break: November 25-29, 2024.
+Thanksgiving break: November 25-29, 2024.
 
 All electronic devices must be silenced during lectures.
 Disrupting class in any way will not be tolerated.
