@@ -50,8 +50,7 @@ Once an assignment is graded, the scores are available in [Gradescope](https://w
 
 ### Teams
 
-We will use [Microsoft Teams](https://office365.psu.edu) for text-based communication outside the classroom
-and distribution of course materials.
+[Microsoft Teams](https://office365.psu.edu) is a versatile collaboration platform that integrates chat, video meetings, file storage, and more. It simplifies real-time communication and collaboration between students and instructors outside the classroom. In this course, we will use Teams for distributing course materials, making announcements, holding group discussions, conducting private one-on-one chats, and hosting virtual office hours.
 
 Depending on the issue at hand, we will use either the team channel or the private chat features of [Teams](https://teams.microsoft.com).
 Watch [this video](https://www.youtube.com/watch?v=m1VQpIahGBc&list=PLXPr7gfUMmKwYKFSqoPN-aHQppI7rRQLf&index=4) to learn how team channels (i.e. public conversations) work. Watch [this other video](https://www.youtube.com/watch?v=y7HXc3yWAIk&list=PLXPr7gfUMmKwYKFSqoPN-aHQppI7rRQLf&index=6) to learn how chats (i.e. private one-on-one or group conversations) work.
@@ -65,6 +64,8 @@ Instructions for adding yourself to our team:
 
 For your convenience, I encourage you to install the **Teams mobile app** [(iOS)](https://apps.apple.com/us/app/microsoft-teams/id1113153706) [(android)](https://play.google.com/store/apps/details?id=com.microsoft.teams&hl=en_US) on your phone and/or tablet. Please take a moment now to download the app and join the team as I will share important information with the class through [Teams](https://office365.psu.edu) exclusively. *Do it now!*
 
+[How to message your class and other students in Microsoft Teams](https://www.youtube.com/watch?v=GBVnmTEGScI)
+
 <!--
 
 ### Scanning Apps for Your Phones and Tablets
@@ -74,8 +75,6 @@ The easiest way to scan and submit your work is to use the [Gradescope](https://
 The mobile apps for [Microsoft OneDrive](https://office365.psu.edu) and [Google Drive](https://google.psu.edu/) allow you to scan your completed assignments, convert them into PDF files, and store them in the cloud. As a PSU student, you have virtually unlimited cloud storage on OneDrive and Google Drive — you must be logged into the app with your PSU credentials.
 
 -->
-
-[How to message your class and other students in Microsoft Teams](https://www.youtube.com/watch?v=GBVnmTEGScI)
 
 ## Virtual Office Hours
 
