@@ -122,6 +122,8 @@ Instructions for adding yourself to our team:
 
 For your convenience, I encourage you to install the **Teams mobile app** [(iOS)](https://apps.apple.com/us/app/microsoft-teams/id1113153706) [(android)](https://play.google.com/store/apps/details?id=com.microsoft.teams&hl=en_US) on your phone and/or tablet. Please take a moment now to download the app and join the team as I will share important information with the class through [Teams](https://office365.psu.edu) exclusively. *Do it now!*
 
+[Quick Start Guide](Teams-Quick-Start.pdf)
+
 [How to message your class and other students in Microsoft Teams](https://www.youtube.com/watch?v=GBVnmTEGScI)
 
 <!--
