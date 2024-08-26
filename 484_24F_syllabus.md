@@ -15,7 +15,7 @@ Penn State, University Park, Fall 2024
 | Section | Days | Time | Room |
 | :----: | :--: | :--: | :--: |
 | MATH 484.001 | Mon Wed Fri | 10:10 — 11:00 | Osmond Lab 105 |
-| MATH 484.003 | Mon Wed Fri | 10:15 — 12:05 | Sackett Building 319 |
+| MATH 484.003 | Mon Wed Fri | 11:15 — 12:05 | Sackett Building 319 |
 
 Classes begin on Monday August 26, 2024
 and end on Friday December 13, 2024.
