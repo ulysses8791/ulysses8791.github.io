@@ -334,7 +334,7 @@ Course letter grades will be assigned as follows:
 
 The unavoidable consequence is that some students will be ‘just a point’ away from the next higher or lower grade. For reasons of fairness, the policy in this course is to NOT adjust individual grades in such circumstances.
 
-Your grade will be based *exclusively* on the problem sets, the midterm examination, the final examination, and the final project. There is *no ‘extra-credit’ work*.
+Your grade will be based *exclusively* on the weekly problem sets, the two midterm examinations, and the final examination. There is *no ‘extra-credit’ work*.
 
 ## Deferred Grades
 
