@@ -37,7 +37,7 @@ We will use [Gradescope](https://www.gradescope.com) [(iOS)](https://apps.apple.
 
 Instructions for adding yourself to the course on [Gradescope](https://www.gradescope.com):
 1. If you don't already have a [Gradescope](https://www.gradescope.com) account, please create one using your `abc123@psu.edu` email address as your username.
-2. Use the code provided by your instructor to add MATH 484 to your account. See [`joining a course using a course code'](https://guides.gradescope.com/hc/en-us/articles/21853290544909-Joining-a-Course#h_01HGJZZGH2MPTC934NGG9Y01Q0).
+2. Use the code provided by your instructor to add MATH 484 to your account. See ['joining a course using a course code'](https://guides.gradescope.com/hc/en-us/articles/21853290544909-Joining-a-Course#h_01HGJZZGH2MPTC934NGG9Y01Q0).
 3. Install the **Gradescope mobile app** [(iOS)](https://apps.apple.com/us/app/gradescope/id1563280912) [(android)](https://play.google.com/store/apps/details?id=com.gradescope.student&hl=en_US) on your phone and/or tablet. You will use it to scan your homework and submit it for credit.
 
 Once an assignment is graded, the scores are available in [Gradescope](https://www.gradescope.com).
@@ -460,7 +460,7 @@ and/or liable under Federal and State laws.
 | Week | Mon | Wed | Fri |
 |:----:|:---:|:---:|:---:|
 | 1 | Aug 26 | Aug 28 | Aug 30 |
-| 2 | Sep 2 | Sep 4 | Sep 6 |
+| 2 | | Sep 4 | Sep 6 |
 | 3 | Sep 9 | Sep 11 | Sep 13 |
 | 4 | Sep 16 | Sep 18 | Sep 20 |
 | 5 | Sep 23 | Sep 25 | Sep 27 |
