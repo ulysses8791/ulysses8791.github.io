@@ -1,5 +1,7 @@
 # [GAP: Geometry and Physics — Séminaire itinérant](http://www.geometryandphysics.org/)
 
+[2024: GAP 19 Rome, Italy](https://www1.mat.uniroma1.it/~fiorenza/GAP-Rome/GAP-XIX-2024-Rome.html)
+
 [2023: GAP 18 Paris, France](gap2023.html)
 
 <!-- (https://sites.google.com/view/gapxviiiparis/) --->
@@ -24,7 +26,7 @@
 
 [2010: GAP 8 Scalea, Italy](https://www.lpthe.jussieu.fr/~dito/gap8)
 
-[2009: GAP 7 Chengdu, China](gap7.html) **<<< BROKEN**
+[2009: GAP 7 Chengdu, China](https://math.scu.edu.cn/conference/gap/) **(BROKEN WEBSITE)**
 
 [2008: GAP 6 Barcelona, Spain](GAPVI/index.html)
 
