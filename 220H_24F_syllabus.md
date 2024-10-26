@@ -282,6 +282,8 @@ If you miss the mid-term exam without an official excuse (such as illness or off
 
 ### Final Examination
 
+_The final exam is scheduled for Monday December 16, 2024 from 08:00 to 09:50 in Ag Science & Industries 107._
+
 A *comprehensive* final examination will be given during the final examination period, December 16-20, 2024. The final 
 examination may be scheduled on any day of finals week. Do not plan to leave 
 University Park until after Friday, December 20, 2024. Students may access their final exam schedules on Monday, 
