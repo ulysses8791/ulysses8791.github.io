@@ -38,8 +38,8 @@ PennStaters can also contact me in [Teams](https://office365.psu.edu).
 
 | Course | Days | Time | Room |
 | :----: | :--: | :--: | :--: |
-| MATH 230.006 | Mon Wed Thu Fri | 09:05 — 09:55 | Osmond Lab 105 |
-| MATH 230.010 | Mon Wed Thu Fri | 12:20 — 13:10 | Hammond Building 304 (MWF), Osmond Lab 103 (Thu) |
+| [MATH 230.006](230_25F_syllabus.html) | Mon Wed Thu Fri | 09:05 — 09:55 | Osmond Lab 105 |
+| [MATH 230.010](230_25F_syllabus.html) | Mon Wed Thu Fri | 12:20 — 13:10 | Hammond Building 304 (MWF), Osmond Lab 103 (Thu) |
 
 ### Fall 2024
 
