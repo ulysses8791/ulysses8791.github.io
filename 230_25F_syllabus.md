@@ -88,8 +88,7 @@ Once an assignment is graded, the scores are available in [Gradescope](https://w
 
 [Using Gradescope as a Student](https://guides.gradescope.com/hc/en-us/categories/21540043398413-Student-Center)
 
-To get set up on Achieve, follow the "
-Student Registration - Start Here" link in the "Achieve = Online Homework"
+To get set up on Achieve, follow the "Student Registration - Start Here" link in the "Achieve = Online Homework"
 module you will find on the homepage of our [Canvas](https://canvas.psu.edu) course.
 
 ## Instructions for Assignment Submission on Gradescope
