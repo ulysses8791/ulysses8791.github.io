@@ -112,8 +112,8 @@ See the information in the "department syllabus" located in the "course informat
 Regular class attendance is one of the most important ways that students learn and understand course materials. It is a critical element of student success. **Accordingly, it is the policy of the University that class attendance is expected.** Students should attend every scheduled class and should be held responsible for all work covered in the course.
 
 - [University Faculty Senate Policy 42-27](https://senate.psu.edu/policies-and-rules-for-undergraduate-students/42-00-acquisition-of-credit/#42-27)
-- [Academic Administrative Policies and Procedures Manual, E-11: Class Attendance and Evaluation of Student Performance](https://undergrad.psu.edu/aappm/E-11-class-attendance.html)
-- [University Excused Class Absence Form](https://undergrad.psu.edu/aappm/class_absence_v3.pdf)
+- [Academic Administrative Policies and Procedures Manual, E-11: Class Attendance and Evaluation of Student Performance](https://aappm.psu.edu/policy/e-11-class-attendance)
+- [University Excused Class Absence Form](https://aappm.psu.edu/files/class_absence_v3.pdf)
 
 ## Copyright and Intellectual Property
 
