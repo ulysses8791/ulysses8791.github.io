@@ -16,7 +16,7 @@ Penn State, University Park, Fall 2025
 Classes begin on Monday August 25, 2025
 and end on Friday December 12, 2025.
 
-Thanksgiving break: November 24-28, 2024.
+Thanksgiving break: November 24-28, 2025.
 
 All electronic devices must be silenced during lectures.
 Disrupting class in any way will not be tolerated.
