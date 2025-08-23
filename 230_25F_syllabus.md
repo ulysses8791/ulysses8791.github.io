@@ -2,7 +2,9 @@ Penn State, University Park, Fall 2025
 
 # MATH 230 — MULTIVARIABLE CALCULUS
 
-*The instructor reserves the right to make changes to this syllabus during the semester.*
+*This document is an addendum to the syllabus which can be found in the "course administration" module in our [Canvas](https://canvas.psu.edu) course.*
+
+*The instructor reserves the right to make changes to this document during the semester.*
 
 ## Space-Time Coordinates
 
@@ -90,6 +92,17 @@ To get set up on Achieve, follow the "
 Student Registration - Start Here" link in the "Achieve = Online Homework"
 module you will find on the homepage of our [Canvas](https://canvas.psu.edu) course.
 
+## Instructions for Assignment Submission on Gradescope
+
+1. Download the PDF of the assignment
+from [Gradescope](https://www.gradescope.com).
+2. Solve the problems **using a black pen** either on the printout or on blank sheets of **white letter-size printer paper**. *Show all your work and explain your work briefly in full sentences. Final answers without supporting work and explanations will not receive credit. Write cleanly! If your work is not easily readable and intelligible, you will loose points!*
+3. Scan your work, and submit it **as one single PDF file** in [Gradescope](https://www.gradescope.com). If you'd rather work directly on your pen-enabled tablet, make sure to submit all layers of the PDF document.
+4. In Gradescope, once you have uploaded your PDF file, **you must match the pages of your document to the questions of the assignment**. Otherwise, your submission will be considered incomplete and will receive a zero score.
+5. Check that your submission is complete and that you have submitted all pages.
+Unreadable work will result in a zero score.
+6. Assignments dropped in the instructor's mailbox, sent to his email address, or slipped under his office door are not acceptable, will not be acknowledged, will be ignored, and will not be graded. You must submit your work through [Gradescope](https://www.gradescope.com).
+
 ## Required Textbook
 
 See the information in the "department syllabus" located in the "course information" module in our [Canvas](https://canvas.psu.edu) course.
@@ -101,17 +114,6 @@ Regular class attendance is one of the most important ways that students learn a
 - [University Faculty Senate Policy 42-27](https://senate.psu.edu/policies-and-rules-for-undergraduate-students/42-00-acquisition-of-credit/#42-27)
 - [Academic Administrative Policies and Procedures Manual, E-11: Class Attendance and Evaluation of Student Performance](https://undergrad.psu.edu/aappm/E-11-class-attendance.html)
 - [University Excused Class Absence Form](https://undergrad.psu.edu/aappm/class_absence_v3.pdf)
-
-## Instructions for Assignment Submission on Gradescope
-
-1. Download the PDF of the assignment
-from [Gradescope](https://www.gradescope.com).
-2. Solve the problems **using a black pen** either on the printout or on blank sheets of **white letter-size printer paper**. *Show all your work and explain your work briefly in full sentences. Final answers without supporting work and explanations will not receive credit. Write cleanly! If your work is not easily readable and intelligible, you will loose points!*
-3. Scan your work, and submit it **as one single PDF file** in [Gradescope](https://www.gradescope.com). If you'd rather work directly on your pen-enabled tablet, make sure to submit all layers of the PDF document.
-4. In Gradescope, once you have uploaded your PDF file, **you must match the pages of your document to the questions of the assignment**. Otherwise, your submission will be considered incomplete and will receive a zero score.
-5. Check that your submission is complete and that you have submitted all pages.
-Unreadable work will result in a zero score.
-6. Assignments dropped in the instructor's mailbox, sent to his email address, or slipped under his office door are not acceptable, will not be acknowledged, will be ignored, and will not be graded. You must submit your work through [Gradescope](https://www.gradescope.com).
 
 ## Copyright and Intellectual Property
 
