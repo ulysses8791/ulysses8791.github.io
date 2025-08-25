@@ -25,7 +25,7 @@ Disrupting class in any way will not be tolerated.
 
 Professor Mathieu Stiénon
 
-  - Do contact me by email: [mps16@psu.edu](mailto:mps16@psu.edu)
+  - Do contact me by email: [mps16@psu.edu](mailto:mps16@psu.edu). *Please include __MATH 230__ in the subject of your message.*
   - **Do not** contact me from within [Canvas](https://canvas.psu.edu). *Just don't do it. Thank you.*
 
 <!--
