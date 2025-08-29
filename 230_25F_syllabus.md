@@ -34,7 +34,7 @@ Professor Mathieu Stiénon
 
 ## Office Hours
 
-Tentatively scheduled on **Thursdays from 10:10 to 12:00**.
+Tentatively scheduled on **Wednesdays from 10:10 to 12:00**.
 
 Location: **McAllister Building 325**
 
