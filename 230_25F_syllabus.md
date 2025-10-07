@@ -13,8 +13,7 @@ Penn State, University Park, Fall 2025
 | MATH 230.006 | Mon Wed Thu Fri | 09:05 — 09:55 | Osmond Lab 105 |
 | MATH 230.010 | Mon Wed Thu Fri | 12:20 — 13:10 | Hammond Building 304 (MWF), Osmond Lab 103 (Thu) |
 
-Classes begin on Monday August 25, 2025
-and end on Friday December 12, 2025.
+Classes begin on Monday August 25, 2025 and end on Friday December 12, 2025.
 
 Thanksgiving break: November 24-28, 2025.
 
@@ -28,45 +27,11 @@ Professor Mathieu Stiénon
   - Do contact me by email: [mps16@psu.edu](mailto:mps16@psu.edu). *Please include __MATH 230__ in the subject of your message.*
   - **Do not** contact me from within [Canvas](https://canvas.psu.edu). *Just don't do it. Thank you.*
 
-<!--
-  - Worst way to contact me: [Canvas](https://canvas.psu.edu) inbox. *Just don't do it. Thank you.*
--->
-
 ## Office Hours
 
 Tentatively scheduled on **Wednesdays from 10:10 to 12:00**.
 
 Location: **McAllister Building 325**
-
-<!--
-
-We will use [Zoom](https://zoom.psu.edu) in conjunction with a shared online whiteboard. You will find instructions and links for joining the [Zoom](https://zoom.psu.edu) meeting and the shared online whiteboard in the ‘Course Administration’ module in [Canvas](https://canvas.psu.edu). You must be logged into the [Zoom](https://zoom.psu.edu) app with your PSU credentials to be allowed into the meeting.
-
-**Disrupting virtual office hours in any way will not be tolerated. Refusal to comply with University policies is a violation of the [Code of Conduct](https://studentaffairs.psu.edu/support-safety-conduct/student-conduct/code-conduct). Students may face disciplinary action for Code of Conduct violations.**
-
--->
-
-<!--
-
-## Tech Tools for Remote Collaborative Learning
-
-### IT help is available 24/7
-
-+ [Get support](https://it.psu.edu/get-support)
-+ [PSU IT](https://it.psu.edu)
-
-### Hardware, Internet Access, and Student Tech Loans
-
-https://connecttotech.psu.edu/onlinelearning/
-
-### Software
-
-No-cost to you. Use your PSU email address and password to log in.
-
-+ [Google Workspace](https://google.psu.edu/) (You might find Google's Meet, Chat, Drive, and Jamboard apps useful.)
-+ [Microsoft Office365](https://office365.psu.edu) (You might find Microsoft's OneNote, OneDrive, Teams, and Whiteboard apps useful.)
-
--->
 
 ## Canvas, Gradescope, and Achieve
 
@@ -88,18 +53,15 @@ Once an assignment is graded, the scores are available in [Gradescope](https://w
 
 [Using Gradescope as a Student](https://guides.gradescope.com/hc/en-us/categories/21540043398413-Student-Center)
 
-To get set up on Achieve, follow the "Student Registration - Start Here" link in the "Achieve = Online Homework"
-module you will find on the homepage of our [Canvas](https://canvas.psu.edu) course.
+To get set up on Achieve, follow the "Student Registration - Start Here" link in the "Achieve = Online Homework" module you will find on the homepage of our [Canvas](https://canvas.psu.edu) course.
 
 ## Instructions for Assignment Submission on Gradescope
 
-1. Download the PDF of the assignment
-from [Gradescope](https://www.gradescope.com).
+1. Download the PDF of the assignment from [Gradescope](https://www.gradescope.com).
 2. Solve the problems **using a black pen** either on the printout or on blank sheets of **white letter-size printer paper**. *Show all your work and explain your work briefly in full sentences. Final answers without supporting work and explanations will not receive credit. Write cleanly! If your work is not easily readable and intelligible, you will loose points!*
 3. Scan your work, and submit it **as one single PDF file** in [Gradescope](https://www.gradescope.com). If you'd rather work directly on your pen-enabled tablet, make sure to submit all layers of the PDF document.
 4. In Gradescope, once you have uploaded your PDF file, **you must match the pages of your document to the questions of the assignment**. Otherwise, your submission will be considered incomplete and will receive a zero score.
-5. Check that your submission is complete and that you have submitted all pages.
-Unreadable work will result in a zero score.
+5. Check that your submission is complete and that you have submitted all pages. Unreadable work will result in a zero score.
 6. Assignments dropped in the instructor's mailbox, sent to his email address, or slipped under his office door are not acceptable, will not be acknowledged, will be ignored, and will not be graded. You must submit your work through [Gradescope](https://www.gradescope.com).
 
 ## Required Textbook
@@ -129,13 +91,8 @@ If you have questions regarding the specific use of such a site, seek clarificat
 
 Students are not allowed to record class sessions without permission.
 
-According to University Policy, students must get express permission from their instructor
-to record class sessions. Screenshots showing instructors and students are considered recordings.
-Even if permission is granted, student-initiated recordings must be used only for educational purposes
-for the students enrolled in the initiating student’s class.
+According to University Policy, students must get express permission from their instructor to record class sessions. Screenshots showing instructors and students are considered recordings.
+Even if permission is granted, student-initiated recordings must be used only for educational purposes for the students enrolled in the initiating student’s class.
 Recordings may be used only during the period in which the student is enrolled in the class.
-Authorized student-initiated recordings may not be posted or shared in any fashion outside of the class,
-including online or through other media, without the express written consent of the course instructor
-or appropriate University administrator. Students who engage in the unauthorized distribution
-of class recordings may be held in violation of the University’s [Code of Conduct](https://studentaffairs.psu.edu/support-safety-conduct/student-conduct/code-conduct),
-and/or liable under Federal and State laws.
+Authorized student-initiated recordings may not be posted or shared in any fashion outside of the class, including online or through other media, without the express written consent of the course instructor or appropriate University administrator.
+Students who engage in the unauthorized distribution of class recordings may be held in violation of the University’s [Code of Conduct](https://studentaffairs.psu.edu/support-safety-conduct/student-conduct/code-conduct), and/or liable under Federal and State laws.
