@@ -68,6 +68,10 @@ To get set up on Achieve, follow the "Student Registration - Start Here" link in
 
 See the information in the "department syllabus" located in the "course information" module in our [Canvas](https://canvas.psu.edu) course.
 
+Rogawski, Adams, & Franzosa, "Calculus: Early Transcendentals", 4th edition, (C) 2019 W. H. Freeman and Company
+
+Here is a [list of suggested exercises](230_suggested_exercises.html) from the textbook.
+
 ## Class Attendance
 
 Regular class attendance is one of the most important ways that students learn and understand course materials. It is a critical element of student success. **Accordingly, it is the policy of the University that class attendance is expected.** Students should attend every scheduled class and should be held responsible for all work covered in the course.
