@@ -4,27 +4,27 @@ Kyoto University, [Research Institute for Mathematical Sciences](https://maps.ap
 
 ## Week 1 (April 13-17)
 
-|           | Monday 13     | Tuesday 14    | Wednesday 15  | Thursday 16   | Friday 17     |
-| :-------- | :------------ | :------------ | :------------ | :------------ | :------------ |
-| **09:30** | [Nakajima](#nakajima)      | [Fantechi](#fantechi)      | [Fukaya](#fukaya)        | [Keller](#keller)        | [Fukaya](#fukaya)        |
-| **10:30** | *tea break*   | *tea break*   | *tea break*   | *tea break*   | *tea break*   |
-| **11:00** | [Yong-Geun Oh](#yong-geun)  | [Yong-Geun Oh](#yong-geun)  | [Nakajima](#nakajima)      | [Fukaya](#fukaya)        | [Keller](#keller)        |
-| **12:00** | *lunch break* | *lunch break* |               | *lunch break* |               |
-| **14:00** | [Fantechi](#fantechi)      | [Fantechi](#fantechi)      |               | [Keller](#keller)        |               |
-| **15:00** |               | *tea break*   |               |               |               |
-| **15:30** |               | [Nakajima](#nakajima)      |               |               |               |
+|           | Monday 13     | Tuesday 14    | Wednesday 15  | Thursday 16   | Friday 17     | |
+| :-------- | :------------ | :------------ | :------------ | :------------ | :------------ | ---: |
+| **09:30** | [Nakajima](#nakajima)      | [Fantechi](#fantechi)      | [Fukaya](#fukaya)        | [Keller](#keller)        | [Fukaya](#fukaya)        | **09:30** |
+| **10:30** | *tea break*   | *tea break*   | *tea break*   | *tea break*   | *tea break*   | **10:30** |
+| **11:00** | [Yong-Geun Oh](#yong-geun)  | [Yong-Geun Oh](#yong-geun)  | [Nakajima](#nakajima)      | [Fukaya](#fukaya)        | [Keller](#keller)        | **11:00** |
+| **12:00** | *lunch break* | *lunch break* |               | *lunch break* |               | **12:00** |
+| **14:00** | [Fantechi](#fantechi)      | [Fantechi](#fantechi)      |               | [Keller](#keller)        |               | **14:00** |
+| **15:00** |               | *tea break*   |               |               |               | **15:00** |
+| **15:30** |               | [Nakajima](#nakajima)      |               |               |               | **15:30** |
 
 ## Week 2 (April 20-24)
 
-|           | Monday 20     | Tuesday 21     | Wednesday 22  | Thursday 23   | Friday 24     |
-| :-------- | :------------ | :------------- | :------------ | :------------ | :------------ |
-| **09:30** | [Kapranov](#kapranov)      | [Göttsche](#goettsche)       | [Mochizuki](#mochizuki)     | [Toda](#toda)          | [Jeongseok Oh](#jeongseok)  |
-| **10:30** | *tea break*   | *tea break*    | *tea break*   | *tea break*   | *tea break*   |
-| **11:00** | [Vasserot](#vasserot)      | [Ohta](#ohta)           | [Polishchuk](#polishchuk)    | [Khan](#khan)          | [Bryan](#bryan)         |
-| **12:00** | *lunch break* | *lunch break*  |               | *lunch break* |               |
-| **14:00** | [Bandiera](#bandiera)      | poster session |               | [Fiorenza](#fiorenza)      |               |
-| **15:00** | *tea break*   | *tea break*    |               | *tea break*   |               |
-| **15:30** | [Iacono](#iacono)        | poster session |               | [Lee](#lee)           |               |
+|           | Monday 20     | Tuesday 21     | Wednesday 22  | Thursday 23   | Friday 24     | |
+| :-------- | :------------ | :------------- | :------------ | :------------ | :------------ | ---: |
+| **09:30** | [Kapranov](#kapranov)      | [Göttsche](#goettsche)       | [Mochizuki](#mochizuki)     | [Toda](#toda)          | [Jeongseok Oh](#jeongseok)  | **09:30** |
+| **10:30** | *tea break*   | *tea break*    | *tea break*   | *tea break*   | *tea break*   | **10:30** |
+| **11:00** | [Vasserot](#vasserot)      | [Ohta](#ohta)           | [Polishchuk](#polishchuk)    | [Khan](#khan)          | [Bryan](#bryan)         | **11:00** |
+| **12:00** | *lunch break* | *lunch break*  |               | *lunch break* |               | **12:00** |
+| **14:00** | [Bandiera](#bandiera)      | poster session |               | [Fiorenza](#fiorenza)      |               | **14:00** |
+| **15:00** | *tea break*   | *tea break*    |               | *tea break*   |               | **15:00** |
+| **15:30** | [Iacono](#iacono)        | poster session |               | [Lee](#lee)           |               | **15:30** |
 
 ## Abstracts
 
