@@ -10,7 +10,9 @@ PennStaters can also contact me in [Teams](https://office365.psu.edu).
 
 ## Research
 
-[GAP 2024 — Moduli Spaces and Higher Structures (Sep 9-13, 2024)](https://www1.mat.uniroma1.it/~fiorenza/GAP-Rome/GAP-XIX-2024-Rome.html)
+[GAP 2026 — Moduli Spaces in Various Flavors of Geometry (April 13-24, 2026)](https://sites.google.com/view/gap2026)
+
+[GAP 2024 — Moduli Spaces and Higher Structures (September 9-13, 2024)](https://www1.mat.uniroma1.it/~fiorenza/GAP-Rome/GAP-XIX-2024-Rome.html)
 
 [HIRSUTES2023 — thematic trimester on higher structures in geometry and mathematical physics](https://indico.math.cnrs.fr/event/7893/)
 
