@@ -60,9 +60,13 @@ In 2023, John Pardon defined an algebra of "curve enumeration problems" on smoot
 
 ### Barbara Fantechi (SISSA) {#fantechi}
 
-**TBA**
+**Deformations of singular varieties**
 
-TBA
+_Lecture 1:_ After briefly reviewing functors over Artinian algebras (over a fixed algebraically closed field) we focus on deformations of singular varieties, and in particular those which have lci singularities.
+
+_Lecture 2:_ We review Tziolas's result on formal smoothability, describe applications to smoothening of stable surfaces (joint work with Franciosi and Pardini) and a similar, independent smoothability result (joint with Miró Roig).
+
+_Lecture 3:_ We relate what done so far with algebraic stacks and complex analytic geometry; if time allows we discuss work in progress with Siao Chi Mok on the stack of Fulton-MacPherson expansions.
 
 ---
 
