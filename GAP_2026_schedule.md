@@ -72,9 +72,9 @@ _Lecture 3:_ We relate what done so far with algebraic stacks and complex analyt
 
 ### Domenico Fiorenza (Sapienza Università di Roma) {#fiorenza}
 
-**TBA**
+**Homotopy fibers in classical algebraic geometry**
 
-TBA
+Homotopy fibers, usually regarded as genuinely derived objects, are in fact already implicit in classical algebraic geometry: familiar spaces such as projective spaces, Grassmannians, and flag varieties all arise as homotopy fibers of natural morphisms between moduli stacks of principal bundles. This perspective suggests that many classical parameter spaces arise from universal constructions that are naturally homotopical. In characteristic zero, the equivalence between formal moduli problems and differential graded Lie algebras provides a bridge to describe the infinitesimal geometry of moduli spaces presented as homotopy fibers through the cohomology of mapping cones of dgla morphisms. Several examples from the works of Bandiera, Iacono, Lepri, Manetti, Martinengo, Meazzini, and myself will be presented.
 
 ---
 
