@@ -126,9 +126,9 @@ In this talk, we devote our attention to infinitesimal deformations of morphisms
 
 ### Adeel Khan (Academia Sinica) {#khan}
 
-**TBA**
+**Virtual classes of shifted Lagrangians**
 
-TBA
+The virtual fundamental class is the key tool for extracting enumerative invariants from quasi-smooth moduli spaces. Some enumerative invariants, such as those arising in DT4 theory and GLSM, require virtual classes beyond the quasi-smooth setting. I will explain how these can be understood as instances of a conjecture of Joyce, which predicts virtual invariants associated to (-1)-shifted Lagrangians in shifted symplectic geometry. This also allows one to define other algebraic structures, such as a Fukaya-type category of algebraic Lagrangians, and 3-dimensional cohomological Hall algebras. I will sketch a proof of Joyce's conjecture, based on joint work in progress with Tasuki Kinjo, Hyeonjun Park, and Pavel Safronov.
 
 ---
 
