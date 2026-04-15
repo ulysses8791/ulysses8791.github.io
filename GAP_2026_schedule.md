@@ -150,9 +150,24 @@ I will present a "supersymmetric" interpretation of this theory based on a natur
 
 ### Bernhard Keller (Université Paris Cité) {#keller}
 
+<!--
+
 **Deligne's conjecture after Lurie**
 
 We will present an introduction to the strategy used by Jacob Lurie in his proof of Deligne's conjecture and to some of the tools from higher category theory which he relied on. If time permits, we will also give a glimpse of Brav-Rozenblyum's recent results on the cyclic Deligne conjecture.
+
+-->
+
+**Cluster algebras, Higgs categories and braid group actions**
+
+Cluster algebras are certain commutative algebras with a very rich combinatorial structure.
+They were invented by Sergey Fomin and Andrei Zelevinsky in 2002, who were motivated by problems from Lie theory, in particular the study of Lusztig's canonical bases and his notion of total positivity.
+Since then, it has turned out that cluster algebras also appear in a wide range of other subjects, from representation theory to mathematical physics, mirror symmetry and symplectic topology.
+Among the many methods developed to study cluster algebras is "additive categorification", where the combinatorics of cluster algebras are lifted to the level certain (stably) 2-Calabi-Yau categories.
+In the case of cluster algebras with coefficients, these are the Higgs categories recently introduced by Yilin Wu.
+In this minicourse, after a historical survey and a basic introduction to cluster algebras, we will present the framework of additive categorification via Higgs categories and then study classes of examples appearing in Lie theory and in higher Teichmuller theory as approached by Fock-Goncharov, Jiarui Fei, Ian Le, ... and Goncharov-Shen.
+In these examples, braid group actions play an important role and we will show how the presence of coefficients yields a natural way of lifting them to the categorical level.
+The results we will present were obtained in several joint projects notably involving, in chronological order, Chris Fraser, Yilin Wu, Alessandro Contu, Miantao Liu, Haoyu Wang and Xiaofa Chen.
 
 ---
 
