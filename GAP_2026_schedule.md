@@ -22,9 +22,9 @@ Kyoto University, [Research Institute for Mathematical Sciences](https://maps.ap
 | **10:30** | *tea break* | *tea break* | *tea break* | *tea break* | *tea break* | **10:30** |
 | **11:00** | [Vasserot](#vasserot) | [Ohta](#ohta) | [Polishchuk](#polishchuk) | [Khan](#khan) | [Bryan](#bryan) | **11:00** |
 | **12:00** | *lunch break* | *lunch break*  |   | *lunch break* |   | **12:00** |
-| **14:00** | [Bandiera](#bandiera) | poster session |   | [Fiorenza](#fiorenza) |   | **14:00** |
+| **14:00** | [Bandiera](#bandiera) | [poster session](gap_2026_poster_session.pdf) |   | [Fiorenza](#fiorenza) |   | **14:00** |
 | **15:00** | *tea break* | *tea break* |   | *tea break* |   | **15:00** |
-| **15:30** | [Iacono](#iacono) | poster session |   | [Lee](#lee) |   | **15:30** |
+| **15:30** | [Iacono](#iacono) | [poster session](gap_2026_poster_session.pdf) |   | [Lee](#lee) |   | **15:30** |
 
 ## Abstracts
 
