@@ -22,17 +22,19 @@ Kyoto University, [Research Institute for Mathematical Sciences](https://maps.ap
 | **10:30** | *tea break* | *tea break* | *tea break* | *tea break* | *tea break* | **10:30** |
 | **11:00** | [Vasserot](#vasserot) | [Ohta](#ohta) | [Polishchuk](#polishchuk) | [Khan](#khan) | [Bryan](#bryan) | **11:00** |
 | **12:00** | *lunch break* | *lunch break*  |   | *lunch break* |   | **12:00** |
-| **14:00** | [Bandiera](#bandiera) | [poster session](gap_2026_poster_session.pdf) |   | [Fiorenza](#fiorenza) |   | **14:00** |
-| **15:00** | *tea break* | *tea break* |   | *tea break* |   | **15:00** |
-| **15:30** | [Iacono](#iacono) | [poster session](gap_2026_poster_session.pdf) |   | [Lee](#lee) |   | **15:30** |
+| **14:00** | [Bandiera](#bandiera) | [poster](gap_2026_poster_session.pdf) |   | [Fiorenza](#fiorenza) |   | **14:00** |
+| **15:00** | *tea break* | [session](gap_2026_poster_session.pdf) |   | *tea break* |   | **15:00** |
+| **15:30** | [Iacono](#iacono) | [in room 110](gap_2026_poster_session.pdf) |   | [Lee](#lee) |   | **15:30** |
 
 ## Abstracts
 
 ### Ruggero Bandiera (Sapienza Università di Roma) {#bandiera}
 
-**TBA**
+**L-infinity liftings of semiregularity maps**
 
-TBA
+After reviewing the approach to deformation theory via DG Lie algebras, we will consider deformations of a coherent sheaf F on a complex manifold X: these are controlled by the DG Lie algebra of derived endomorphisms of F, and in particular the obstructions live in the space Ext^2(F,F).
+In this situation, Buchweitz and Flenner introduced a family of linear maps, which they call semi-regularity maps, from the obstruction space Ext^2(F,F) with values in the cohomology of X, and showed that they vanish on certain special obstructions called simple.
+In a joint work with Emma Lepri and Marco Manetti, we showed that semi-regularity maps can be lifted to L-infinity morphism from the controlling DG Lie algebra of derived endomorphisms to an abelian target, and therefore vanish on all obstructions.
 
 ---
 
