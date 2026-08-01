@@ -70,6 +70,8 @@ _Lecture 2:_ We review Tziolas's result on formal smoothability, describe applic
 
 _Lecture 3:_ We relate what done so far with algebraic stacks and complex analytic geometry; if time allows we discuss work in progress with Siao Chi Mok on the stack of Fulton-MacPherson expansions.
 
+[blackboard pictures](GAP2026_Fantechi/blackboard.md)
+
 ---
 
 ### Domenico Fiorenza (Sapienza Università di Roma) {#fiorenza}
@@ -170,6 +172,8 @@ In the case of cluster algebras with coefficients, these are the Higgs categorie
 In this minicourse, after a historical survey and a basic introduction to cluster algebras, we will present the framework of additive categorification via Higgs categories and then study classes of examples appearing in Lie theory and in higher Teichmuller theory as approached by Fock-Goncharov, Jiarui Fei, Ian Le, ... and Goncharov-Shen.
 In these examples, braid group actions play an important role and we will show how the presence of coefficients yields a natural way of lifting them to the categorical level.
 The results we will present were obtained in several joint projects notably involving, in chronological order, Chris Fraser, Yilin Wu, Alessandro Contu, Miantao Liu, Haoyu Wang and Xiaofa Chen.
+
+[handout](Keller_Kyoto_20260416_handout.pdf)
 
 ---
 
