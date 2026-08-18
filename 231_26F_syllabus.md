@@ -1,4 +1,4 @@
-**Penn State | Fall 2026**
+Penn State | Fall 2026
 
 # MATH 231 — Calculus of Several Variables
 
