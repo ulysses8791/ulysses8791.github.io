@@ -155,10 +155,11 @@ Approved quiz makeups must be completed before the end of the week in which the 
 
 ## Evening Examinations
 
-| Assessment | Scheduled Date & Time | Makeup Exam Date & Time |
-| :---: | :---: | :---: |
-| Exam 1 | Wed, Oct 7 (?:?? PM – ?:?? PM) | ???, Oct ?? (?:??–?:?? PM) |
-| Exam 2 | Mon, Nov 9 (?:?? PM – ?:?? PM) | ???, Nov ?? (?:??–?:?? PM) |
+|         | Exam 1                         | Exam 2                          |
+| :-----: | :----------------------------: | :-----------------------------: |
+| **Regular** | **Wed, Oct 7 (6:15 PM – 7:30 PM)** | **Mon, Nov 9 (6:15 PM – 7:30 PM)** |
+| Early   | Wed, Oct 7 (4:50 PM – 6:05 PM) | Mon, Nov 9  (4:50 PM – 6:05 PM) |
+| Makeup  | Thu, Oct 8 (6:15 PM – 7:30 PM) | Tue, Nov 10 (6:15 PM – 7:30 PM) |
 
 Exam room assignments will be announced by your instructor or TA and published on the math department website.
 
@@ -168,13 +169,15 @@ Students must bring their official Penn State ID, several pencils, and an eraser
 
 - For each midterm, an **early exam** will be held on the same night as the regular exam beginning at **4:50 PM**. Students attending the early exam are not permitted to leave the room before the end of the exam period.
 
-- For each midterm, a **makeup exam** will be held the week after the regular exam. This exam is meant for students unable to take the regular or early exam due to valid, documented reasons.
+- For each midterm, a **makeup exam** will be held the day after the regular exam. This exam is meant for students unable to take the regular or early exam due to valid, documented reasons.
 
 - **To request an early or makeup exam, email your instructor with the documented reason. If approved, you will receive a registration link.**
 
 - Notify your instructor immediately regarding last-minute conflicts or sudden illness. If you can attend the early exam, you are not permitted to take the makeup exam.
 
+<!--
 - Makeup exams will not be graded for up to two weeks following the scheduled makeup exam date. To avoid grade delays, sit for the original exam if possible.
+-->
 
 ### Validity of Excuses for Missed Assessments
 
