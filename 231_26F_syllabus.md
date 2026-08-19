@@ -41,12 +41,12 @@ Penn State, University Park, Fall 2026
 
 | Name | Email | Office | Office Hours |
 | :--- | :--- | :--- | :--- |
-| Mathieu Stiénon | mps16@psu.edu | McAllister 325 | Wed, Fri 10:30 AM — 11:30 AM |
-| Ping Xu | pxx2@psu.edu | McAllister 328 |  |
-| Austin Davis | ahd5198@psu.edu |  |  |
-| Kaichuan Qi | kkq5040@psu.edu |  |  |
-| Nguyen Nguyen | ndn5109@psu.edu |  |  |
-| Ufuoma Asarhasa | uva5039@psu.edu |  |  |
+| Mathieu Stiénon | [mps16@psu.edu](mailto:mps16@psu.edu) | McAllister 325 | Wed, Fri 10:30 AM — 11:30 AM |
+| Ping Xu | [pxx2@psu.edu](mailto:pxx2@psu.edu) | McAllister 328 |  |
+| Austin Davis | [ahd5198@psu.edu](mailto:ahd5198@psu.edu) |  |  |
+| Kaichuan Qi | [kkq5040@psu.edu](mailto:kkq5040@psu.edu) |  |  |
+| Nguyen Nguyen | [ndn5109@psu.edu](mailto:ndn5109@psu.edu) |  |  |
+| Ufuoma Asarhasa | [uva5039@psu.edu](mailto:uva5039@psu.edu) |  |  |
 
 - Please always include **MATH 231** in the subject line of every email message.
 - Do **NOT** contact your instructor from within Canvas.
@@ -225,7 +225,7 @@ If you suspect a grading error on your exam or quiz, please submit a regrade req
 Penn State welcomes students with disabilities into the University's educational programs. If you have a disability-related need for reasonable academic adjustments in this course, contact Student Disability Resources at 814-863-1807 (V/TTY). For further information, please visit the [Student Disability Resources web site](https://equity.psu.edu/student-disability-resources/). In order to receive consideration for accommodations, you must contact SDR and provide documentation (see the documentation guidelines at the [Student Disability Resources web site](https://equity.psu.edu/student-disability-resources/)).
 If the documentation supports your request for reasonable accommodations, SDR will provide you with an accommodation letter identifying appropriate academic adjustments. Please share this letter with your instructors and discuss the accommodations with them as early in your courses as possible. You must follow this process for every semester that you request accommodations.
 
-**Accommodations:** Contact your instructor immediately and email your accommodation letter to Exam Coordinator Kyrsten Murphy (kml5346@psu.edu).
+**Accommodations:** Contact your instructor immediately and email your accommodation letter to Exam Coordinator Kyrsten Murphy ([kml5346@psu.edu](kml5346@psu.edu)).
 
 ## Attendance & Absence Policies
 
