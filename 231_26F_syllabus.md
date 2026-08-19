@@ -48,7 +48,7 @@ Penn State, University Park, Fall 2026
 | Nguyen Nguyen | [ndn5109@psu.edu](mailto:ndn5109@psu.edu) |  |  |
 | Ufuoma Asarhasa | [uva5039@psu.edu](mailto:uva5039@psu.edu) |  |  |
 
-- Please always include **MATH 231** in the subject line of every email message.
+- **Please always include _MATH 231_ in the subject line of every email message.**
 - Do **NOT** contact your instructor from within Canvas.
 - It may take up to two business days to receive an answer. Response windows exclude weekends and holidays; emails sent on Friday may not receive a reply until the following week.
 - Please refrain from asking extensive homework questions via email. Reserve such questions for Office Hours.
