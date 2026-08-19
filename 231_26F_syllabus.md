@@ -42,7 +42,7 @@ Penn State, University Park, Fall 2026
 | Name | Email | Office | Office Hours |
 | :--- | :--- | :--- | :--- |
 | Mathieu Stiénon | [mps16@psu.edu](mailto:mps16@psu.edu) | McAllister 325 | Wed, Fri 10:30 AM — 11:30 AM |
-| Ping Xu | [pxx2@psu.edu](mailto:pxx2@psu.edu) | McAllister 328 |  |
+| Ping Xu | [pxx2@psu.edu](mailto:pxx2@psu.edu) | McAllister 329 | Wed, Fri 2:30 PM — 3:30 PM |
 | Austin Davis | [ahd5198@psu.edu](mailto:ahd5198@psu.edu) |  |  |
 | Kaichuan Qi | [kkq5040@psu.edu](mailto:kkq5040@psu.edu) |  |  |
 | Nguyen Nguyen | [ndn5109@psu.edu](mailto:ndn5109@psu.edu) |  |  |
