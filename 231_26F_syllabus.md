@@ -106,11 +106,11 @@ Assignments will be weighed as follows:
 
 | Assessment Component | Weight |
 | :--- | :---: |
-| Weekly Homework | 20% |
-| In-Class Quizzes | 14% |
-| Evening Exam 1 | 18% |
-| Evening Exam 2 | 18% |
-| Comprehensive Final Exam | 30% |
+| Weekly Homework | 10% |
+| In-Class Quizzes | 15% |
+| Evening Exam 1 | 20% |
+| Evening Exam 2 | 20% |
+| Comprehensive Final Exam | 35% |
 | **Total** | **100%** |
 
 Course letter grades will be assigned as follows:
