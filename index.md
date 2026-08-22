@@ -1,3 +1,6 @@
+---
+layout: page
+---
 # Mathieu Stiénon
 
 [Department of Mathematics](https://science.psu.edu/math), [Pennsylvania State University](https://www.psu.edu/)
