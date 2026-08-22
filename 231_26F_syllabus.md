@@ -171,7 +171,7 @@ Students must bring their official Penn State ID, several pencils, and an eraser
 
 - For each midterm, a **makeup exam** will be held the day after the regular exam. This exam is meant for students unable to take the regular or early exam due to valid, documented reasons.
 
-- **To request an early or makeup exam, email your instructor with the documented reason. If approved, you will receive a registration link.**
+- **To request an early or makeup exam, visit [Canvas](https://canvas.psu.edu) and use the registration link provided in the course administration module. Prepare to provide documentation that supports the validity of your request.**
 
 - Notify your instructor immediately regarding last-minute conflicts or sudden illness. If you can attend the early exam, you are not permitted to take the makeup exam.
 
