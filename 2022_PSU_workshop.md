@@ -1,5 +1,7 @@
 <!-- ![QR code](workshop_qrcode.png) -->
 
+_
+
 # Workshop on "Higher Structures" at Penn State
 
 jump to [Schedule and Abstracts](#schedule)

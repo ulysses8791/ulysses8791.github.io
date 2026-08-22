@@ -1,3 +1,5 @@
+_
+
 # Suggested Exercises for MATH 231
 
 textbook: Rogawski, Adams, & Franzosa, "Calculus: Early Transcendentals", 4th edition, (C) 2019 W. H. Freeman and Company
