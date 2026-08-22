@@ -150,7 +150,7 @@ Students who have a _valid and documented_ reason for not submitting homework on
 
 Quizzes will be given in class on Monday every week (except during Week 1).
 
-If you must miss a quiz due to a valid, university-approved excuse, you **must notify your TA via email no later than 23:59 PM on the day of the quiz**.
+If you must miss a quiz due to a valid, university-approved excuse, you **must notify your TA via email no later than 11:59 PM on the day of the quiz**.
 Approved quiz makeups must be completed before the end of the week in which the quiz took place. Makeup scores may not be entered into the Canvas grade book until the end of the term.
 
 ## Evening Examinations
@@ -303,7 +303,7 @@ For more help, the Department of Mathematics maintains a [list of private tutors
 
 ## Late-Drop
 
-Students may add/drop a course without academic penalty within the first six calendar days of the semester. A student may late drop a course within the first twelve weeks of the semester but accrues late drop credits equal to the number of credits in the dropped course. A baccalaureate student is limited to 16 late drop credits. Consult your academic advisor before late-dropping. *The late drop deadline is Friday November 13, 2026 at 23:59 (Eastern Time).*
+Students may add/drop a course without academic penalty within the first six calendar days of the semester. A student may late drop a course within the first twelve weeks of the semester but accrues late drop credits equal to the number of credits in the dropped course. A baccalaureate student is limited to 16 late drop credits. Consult your academic advisor before late-dropping. *The late drop deadline is Friday November 13, 2026 at 11:59 PM (Eastern Time).*
 
 ## Deferred Grades
 
