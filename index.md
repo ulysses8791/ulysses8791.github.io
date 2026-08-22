@@ -38,6 +38,10 @@ PennStaters can also contact me in [Teams](https://office365.psu.edu).
 
 ## Teaching
 
+### Fall 2026
+
+[MATH 231](231_26F_syllabus.html)
+
 ### Fall 2025
 
 | Course | Days | Time | Room |
