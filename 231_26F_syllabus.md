@@ -1,7 +1,3 @@
----
-title: "MATH 231 Course Syllabus"
----
-
 Penn State, University Park, Fall 2026
 
 # MATH 231 — Calculus of Several Variables
