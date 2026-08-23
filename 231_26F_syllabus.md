@@ -3,9 +3,9 @@ layout: default
 title: Syllabus for MATH 231 in Fall 2026
 ---
 
-# MATH 231 — Calculus of Several Variables
-
 Penn State, University Park, Fall 2026
+
+# MATH 231 — Calculus of Several Variables
 
 ## Class Meetings
 
