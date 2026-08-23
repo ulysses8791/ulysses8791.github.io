@@ -66,8 +66,9 @@ Penn State, University Park, Fall 2026
 
 **We will cover chapters 12, 13, and 14. Before making a purchase, please ensure that the book includes these chapters.**
 
-Check whether you have an active Achieve account remaining from MATH 140/141, as students are typically instructed to purchase multiple-semester access.
-Achieve provides access to the electronic version of the textbook.
+**​Note on Achieve:** We will not be using Macmillan Achieve for this course. If you do not already have an Achieve subscription, **do not buy one**—you only need to purchase a copy of the textbook (either physical or electronic). However, if you have an active Achieve subscription remaining from MATH 140/141 (as multi-semester access is typically purchased), you may use it to access the electronic version of the textbook.
+
+<!-- Check whether you have an active Achieve account remaining from MATH 140/141, as students are typically instructed to purchase multiple-semester access. Achieve provides access to the electronic version of the textbook. -->
 
 Here is a [list of suggested exercises](231_suggested_exercises.html) from the textbook.
 
