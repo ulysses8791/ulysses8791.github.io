@@ -1,3 +1,8 @@
+---
+layout: default
+title: Deformations of singular varieties
+---
+
 # Deformations of singular varieties
 
 Lectures by Prof. Barbara Fantechi (SISSA) at the Research Institute for Mathematical Sciences (RIMS), Kyoto University, April 13–14, 2026.

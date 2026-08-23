@@ -1,3 +1,8 @@
+---
+layout: default
+title: Geometry and Physics (GAP) — Séminaire itinérant
+---
+
 # [GAP: Geometry and Physics — Séminaire itinérant](http://www.geometryandphysics.org/)
 
 [2024: GAP 19 Rome, Italy](https://www1.mat.uniroma1.it/~fiorenza/GAP-Rome/GAP-XIX-2024-Rome.html)

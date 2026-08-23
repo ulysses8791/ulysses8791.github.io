@@ -1,3 +1,8 @@
+---
+layout: default
+title: Syllabus for MATH 484 in Spring 2024
+---
+
 Penn State, University Park, Spring 2024
 
 <!--

@@ -1,4 +1,7 @@
-_
+---
+layout: default
+title: Suggested Exercises for MATH 230
+---
 
 # Suggested Exercises for MATH 230
 

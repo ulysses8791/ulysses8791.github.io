@@ -1,3 +1,8 @@
+---
+layout: default
+title: Syllabus for MATH 484 in Spring 2022
+---
+
 Penn State, University Park, Spring 2022
 
 **Penn State requires everyone to wear a face mask in all university buildings, including classrooms, regardless of vaccination status. ALL STUDENTS MUST wear a mask appropriately (i.e., covering both your mouth and nose) while you are indoors on campus.  This is to protect your health and safety as well as the health and safety of your classmates, instructor, and the university community.   Anyone attending class without a mask will be asked to put one on or leave.  Instructors may end class if anyone present refuses to appropriately wear a mask for the duration of class. Students who refuse to wear masks appropriately may face disciplinary action for [Code of Conduct](https://studentaffairs.psu.edu/support-safety-conduct/student-conduct/code-conduct) violations.  If you feel you cannot wear a mask during class, please speak with your adviser immediately about your options for altering your schedule.**

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Syllabus for MATH 220H in Fall 2022
+---
+
 Penn State, University Park, Fall 2022
 
 <!--

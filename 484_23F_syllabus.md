@@ -1,3 +1,8 @@
+---
+layout: default
+title: Syllabus for MATH 484 in Fall 2023
+---
+
 Penn State, University Park, Fall 2023
 
 <!--

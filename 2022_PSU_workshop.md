@@ -1,6 +1,7 @@
-<!-- ![QR code](workshop_qrcode.png) -->
-
-_
+---
+layout: default
+title: Workshop on "Higher Structures" at Penn State
+---
 
 # Workshop on "Higher Structures" at Penn State
 

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Syllabus for MATH 230 in Fall 2025
+---
+
 Penn State, University Park, Fall 2025
 
 # MATH 230 — MULTIVARIABLE CALCULUS

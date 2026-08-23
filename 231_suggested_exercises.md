@@ -1,4 +1,7 @@
-_
+---
+layout: default
+title: Suggested Exercises for MATH 231
+---
 
 # Suggested Exercises for MATH 231
 

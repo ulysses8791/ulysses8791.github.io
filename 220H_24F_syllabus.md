@@ -1,3 +1,8 @@
+---
+layout: default
+title: Syllabus for MATH 220H in Fall 2024
+---
+
 Penn State, University Park, Fall 2024
 
 # MATH 220H — MATRICES

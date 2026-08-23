@@ -1,3 +1,8 @@
+---
+layout: default
+title: Syllabus for MATH 484 in Spring 2021
+---
+
 Penn State, University Park, Spring 2021
 
 # MATH 484.003 — LINEAR OPTIMIZATION
