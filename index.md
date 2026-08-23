@@ -1,4 +1,7 @@
-_
+---
+layout: default
+title: Mathieu Stiénon
+---
 
 # Mathieu Stiénon
 
