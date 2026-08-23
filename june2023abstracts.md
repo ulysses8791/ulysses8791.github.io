@@ -1,5 +1,3 @@
-_
-
 # Higher structures in Enumerative Geometry
 
 June 12-16, 2023 @ [Institut Henri Poincaré](https://www.ihp.fr) in Paris

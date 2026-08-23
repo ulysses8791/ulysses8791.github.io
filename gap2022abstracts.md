@@ -1,5 +1,3 @@
-_
-
 # GAP 2022 — Vancouver
 
 May 16-20, 2022 @ University of British Columbia
