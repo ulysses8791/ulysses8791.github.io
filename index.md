@@ -43,7 +43,7 @@ PennStaters can also contact me in [Teams](https://office365.psu.edu).
 
 ### Fall 2026
 
-[MATH 231](231_26F_syllabus.html)
+[MATH 231](231_26F_syllabus.html) [(link to lecture schedule)](231_26F_lecture_schedule.md)
 
 ### Fall 2025
 
