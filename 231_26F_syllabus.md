@@ -170,6 +170,8 @@ Exam room assignments will be announced by your instructor or TA and published o
 
 Students must bring their official Penn State ID, several pencils, and an eraser to all exams.
 
+[Exam policies of the Department of Mathematics](26F_exam_policies.pdf)
+
 ### Makeup Exams
 
 - For each midterm, a **makeup exam** will be held the day after the regular exam. This exam is meant for students unable to take the regular exam due to valid, documented reasons.
@@ -191,7 +193,6 @@ Students must bring their official Penn State ID, several pencils, and an eraser
 A *comprehensive* final examination will be given during the final examination period (December 14-18, 2026). The final examination may be scheduled on any day of finals week.
 Do not plan to leave University Park until after Friday, December 18, 2026.
 Students may access their final exam schedules on Monday, September 28, 2026, through their [LionPATH](https://lionpath.psu.edu) account.
-
 
 ### Conflict Final Exam
 
