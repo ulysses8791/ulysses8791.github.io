@@ -1,6 +1,6 @@
 ---
-layout: 
-title: MATH 231 lecture schedule
+layout: default
+title: Lecture Schedule for MATH 231 in Fall 2026
 ---
 
 # Lecture Schedule
