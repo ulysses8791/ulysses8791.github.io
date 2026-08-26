@@ -73,6 +73,8 @@ Penn State, University Park, Fall 2026
 
 **​Note on Achieve:** We will not be using Macmillan Achieve for this course. If you do not already have an Achieve subscription, **do not buy one**—you only need to purchase a copy of the textbook (either physical or electronic). However, if you have an active Achieve subscription remaining from MATH 140/141 (as multi-semester access is typically purchased), you may use it to access the electronic version of the textbook.
 
+_On the [publisher's student store](https://store.macmillanlearning.com/us/product/Calculus-Early-Transcendentals/p/1319050743), the textbook is sold either as an e-book or in lose-leaf form. Please ignore the Achieve option. We won't use Achieve._
+
 <!-- Check whether you have an active Achieve account remaining from MATH 140/141, as students are typically instructed to purchase multiple-semester access. Achieve provides access to the electronic version of the textbook. -->
 
 Here is a [list of suggested exercises](231_suggested_exercises.md) from the textbook.
