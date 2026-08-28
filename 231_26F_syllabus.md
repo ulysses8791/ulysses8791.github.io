@@ -44,14 +44,14 @@ Penn State, University Park, Fall 2026
 
 ## Instructors & Office Hours
 
-| Name | Email | Office | Office Hours |
-| :--- | :--- | :--- | :--- |
-| Mathieu Stiénon | [mps16@psu.edu](mailto:mps16@psu.edu) | McAllister 325 | Wed, Fri 10:30 AM — 11:30 AM |
-| Ping Xu | [pxx2@psu.edu](mailto:pxx2@psu.edu) | McAllister 329 | Wed, Fri 2:30 PM — 3:30 PM |
-| Austin Davis | [ahd5198@psu.edu](mailto:ahd5198@psu.edu) |  |  |
-| Kaichuan Qi | [kkq5040@psu.edu](mailto:kkq5040@psu.edu) |  |  |
-| Nguyen Nguyen | [ndn5109@psu.edu](mailto:ndn5109@psu.edu) |  |  |
-| Ufuoma Asarhasa | [uva5039@psu.edu](mailto:uva5039@psu.edu) |  |  |
+| Name | Email | Office Hours |
+| :--- | :--- | :--- |
+| Mathieu Stiénon | [mps16@psu.edu](mailto:mps16@psu.edu) | Wed Fri 10:30 AM — 11:30 AM in 325 McAllister Building |
+| Ping Xu | [pxx2@psu.edu](mailto:pxx2@psu.edu) | Wed Fri 2:30 PM — 3:30 PM in 329 McAllister Building |
+| Austin Davis | [ahd5198@psu.edu](mailto:ahd5198@psu.edu) |  |
+| Kaichuan Qi | [kkq5040@psu.edu](mailto:kkq5040@psu.edu) |  |
+| Nguyen Nguyen | [ndn5109@psu.edu](mailto:ndn5109@psu.edu) |  |
+| Ufuoma Asarhasa | [uva5039@psu.edu](mailto:uva5039@psu.edu) | Tuesdays 2:30 PM — 3:20 PM in 103 McAllister Building |
 
 - **Please always include _MATH 231_ in the subject line of every email message.**
 - Do **NOT** contact your instructor from within Canvas.
@@ -74,6 +74,8 @@ Penn State, University Park, Fall 2026
 **​Note on Achieve:** We will not be using Macmillan Achieve for this course. If you do not already have an Achieve subscription, **do not buy one**—you only need to purchase a copy of the textbook (either physical or electronic). However, if you have an active Achieve subscription remaining from MATH 140/141 (as multi-semester access is typically purchased), you may use it to access the electronic version of the textbook.
 
 _On the [publisher's student store](https://store.macmillanlearning.com/us/product/Calculus-Early-Transcendentals/p/1319050743), the textbook is sold either as an e-book or in lose-leaf form. Please ignore the Achieve option. We won't use Achieve._
+
+**Aug 28 update:** The bookstore on campus has ordered the bound version of the textbook, but the e-book version (without Achieve access code) will be listed along with it if that is what students prefer.
 
 <!-- Check whether you have an active Achieve account remaining from MATH 140/141, as students are typically instructed to purchase multiple-semester access. Achieve provides access to the electronic version of the textbook. -->
 
