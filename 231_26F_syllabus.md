@@ -48,8 +48,8 @@ Penn State, University Park, Fall 2026
 | :--- | :--- | :--- |
 | Mathieu Stiénon | [mps16@psu.edu](mailto:mps16@psu.edu) | Wed Fri 10:30 AM — 11:30 AM in 325 McAllister Building |
 | Ping Xu | [pxx2@psu.edu](mailto:pxx2@psu.edu) | Wed Fri 2:30 PM — 3:30 PM in 329 McAllister Building |
-| Austin Davis | [ahd5198@psu.edu](mailto:ahd5198@psu.edu) |  |
-| Kaichuan Qi | [kkq5040@psu.edu](mailto:kkq5040@psu.edu) |  |
+| Austin Davis | [ahd5198@psu.edu](mailto:ahd5198@psu.edu) | Wednesdays 10:00 AM — 11:00 AM in 413 McAllister Building |
+| Kaichuan Qi | [kkq5040@psu.edu](mailto:kkq5040@psu.edu) | Mondays 9:00 AM - 10:00 AM in 404 McAllister Building |
 | Nguyen Nguyen | [ndn5109@psu.edu](mailto:ndn5109@psu.edu) |  |
 | Ufuoma Asarhasa | [uva5039@psu.edu](mailto:uva5039@psu.edu) | Tuesdays 2:30 PM — 3:20 PM in 103 McAllister Building |
 
