@@ -35,7 +35,7 @@ Penn State, University Park, Fall 2026
 | MATH 231.007R | Mon | 11:15 AM — 12:05 PM | Osmond Lab 106 | Austin Davis |
 | MATH 231.008R | Mon | 11:15 AM — 12:05 PM | Osmond Lab 103 | Kaichuan Qi |
 | MATH 231.009R | Mon | 11:15 AM — 12:05 PM | Wagner Bldg 316 | Nguyen Nguyen |
-| MATH 231.010R | Mon | 12:20 PM — 13:10 PM | Willard Bldg 273 | Kaichuan Qi |
+| MATH 231.010R | Mon | 12:20 PM — 01:10 PM | Willard Bldg 273 | Kaichuan Qi |
 | MATH 231.011R | Mon | 01:25 PM — 02:15 PM | Nursing Sciences Bldg 322 | Ufuoma Asarhasa |
 | MATH 231.012R | Mon | 01:25 PM — 02:15 PM | Thomas Bldg 216 | Kaichuan Qi |
 | MATH 231.013R | Mon | 02:30 PM — 03:20 PM | Osmond Lab 105 | Ufuoma Asarhasa |
@@ -47,11 +47,11 @@ Penn State, University Park, Fall 2026
 | Name | Email | Office Hours |
 | :--- | :--- | :--- |
 | Mathieu Stiénon | [mps16@psu.edu](mailto:mps16@psu.edu) | Wed Fri 10:30 AM — 11:30 AM in 325 McAllister Building |
-| Ping Xu | [pxx2@psu.edu](mailto:pxx2@psu.edu) | Wed Fri 2:30 PM — 3:30 PM in 329 McAllister Building |
+| Ping Xu | [pxx2@psu.edu](mailto:pxx2@psu.edu) | Wed Fri 02:30 PM — 03:30 PM in 329 McAllister Building |
 | Austin Davis | [ahd5198@psu.edu](mailto:ahd5198@psu.edu) | Wednesdays 10:00 AM — 11:00 AM in 413 McAllister Building |
-| Kaichuan Qi | [kkq5040@psu.edu](mailto:kkq5040@psu.edu) | Mondays 9:00 AM - 10:00 AM in 404 McAllister Building |
+| Kaichuan Qi | [kkq5040@psu.edu](mailto:kkq5040@psu.edu) | Mondays 09:00 AM — 10:00 AM in 404 McAllister Building |
 | Nguyen Nguyen | [ndn5109@psu.edu](mailto:ndn5109@psu.edu) |  |
-| Ufuoma Asarhasa | [uva5039@psu.edu](mailto:uva5039@psu.edu) | Tuesdays 2:30 PM — 3:20 PM in 103 McAllister Building |
+| Ufuoma Asarhasa | [uva5039@psu.edu](mailto:uva5039@psu.edu) | Tuesdays 02:30 PM — 03:20 PM in 103 McAllister Building |
 
 - **Please always include _MATH 231_ in the subject line of every email message.**
 - Do **NOT** contact your instructor from within Canvas.
@@ -73,7 +73,7 @@ Penn State, University Park, Fall 2026
 
 **​Note on Achieve:** We will not be using Macmillan Achieve for this course. If you do not already have an Achieve subscription, **do not buy one**—you only need to purchase a copy of the textbook (either physical or electronic). However, if you have an active Achieve subscription remaining from MATH 140/141 (as multi-semester access is typically purchased), you may use it to access the electronic version of the textbook.
 
-_On the [publisher's student store](https://store.macmillanlearning.com/us/product/Calculus-Early-Transcendentals/p/1319050743), the textbook is sold either as an e-book or in lose-leaf form. Please ignore the Achieve option. We won't use Achieve._
+_On the [publisher's student store](https://store.macmillanlearning.com/us/product/Calculus-Early-Transcendentals/p/1319050743), the textbook is sold either as an e-book or in loose-leaf form. Please ignore the Achieve option. We won't use Achieve._
 
 **Aug 28 update:** The bookstore on campus has ordered the bound version of the textbook, but the e-book version (without Achieve access code) will be listed along with it if that is what students prefer.
 
@@ -91,7 +91,7 @@ We will use [Canvas](https://canvas.psu.edu) and [Gradescope](https://www.grades
 
 To get access to our course on [Gradescope](https://www.gradescope.com), click on the "Gradescope" link in the navigation menu on the left in our [Canvas](https://canvas.psu.edu) course.
 
-Install the **Gradescope mobile app** [(iOS)](https://apps.apple.com/us/app/gradescope/id1563280912) [(android)](https://play.google.com/store/apps/details?id=com.gradescope.student&hl=en_US) on your phone and/or tablet to scan your homework and submit it for credit.
+Install the **Gradescope mobile app** [(iOS)](https://apps.apple.com/us/app/gradescope/id1563280912) [(Android)](https://play.google.com/store/apps/details?id=com.gradescope.student&hl=en_US) on your phone and/or tablet to scan your homework and submit it for credit.
 
 Once an assignment is graded, the scores are available in [Gradescope](https://www.gradescope.com).
 
@@ -112,7 +112,7 @@ Once an assignment is graded, the scores are available in [Gradescope](https://w
 
 ## Assessment & Grades
 
-Assignments will be weighed as follows:
+Assignments will be weighted as follows:
 
 | Assessment Component | Weight |
 | :--- | :---: |
@@ -200,7 +200,7 @@ Students may access their final exam schedules on Monday, September 28, 2026, th
 
 ### Conflict Final Exam
 
-Personal final exam schedules will be available through your [LionPATH](https://lionpath.psu.edu) account on Monday September 28, 2026. Notification of conflicts is given on the student's final exam schedule.
+Personal final exam schedules will be available through your [LionPATH](https://lionpath.psu.edu) account on Monday, September 28, 2026. Notification of conflicts is given on the student's final exam schedule.
 
 - *Direct Conflict:* Two examinations scheduled at the exact same time.
 - *Overload Conflict:* Three or more examinations scheduled in consecutive time periods or within a single calendar day.
@@ -229,7 +229,7 @@ If you suspect a grading error on your exam or quiz, please submit a regrade req
 
 ## Students with Disabilities
 
-Penn State welcomes students with disabilities into the University's educational programs. If you have a disability-related need for reasonable academic adjustments in this course, contact Student Disability Resources at 814-863-1807 (V/TTY). For further information, please visit the [Student Disability Resources web site](https://equity.psu.edu/student-disability-resources/). In order to receive consideration for accommodations, you must contact SDR and provide documentation (see the documentation guidelines at the [Student Disability Resources web site](https://equity.psu.edu/student-disability-resources/)).
+Penn State welcomes students with disabilities into the University's educational programs. If you have a disability-related need for reasonable academic adjustments in this course, contact Student Disability Resources at 814-863-1807 (V/TTY). For further information, please visit the [Student Disability Resources website](https://equity.psu.edu/student-disability-resources/). In order to receive consideration for accommodations, you must contact SDR and provide documentation (see the documentation guidelines at the [Student Disability Resources website](https://equity.psu.edu/student-disability-resources/)).
 If the documentation supports your request for reasonable accommodations, SDR will provide you with an accommodation letter identifying appropriate academic adjustments. Please share this letter with your instructors and discuss the accommodations with them as early in your courses as possible. You must follow this process for every semester that you request accommodations.
 
 **Accommodations:** Contact your instructor immediately and email your accommodation letter to Exam Coordinator Kyrsten Murphy ([kml5346@psu.edu](kml5346@psu.edu)).
@@ -281,7 +281,7 @@ Upon successful completion of MATH 231, students should be able to demonstrate m
 
 ### Chapter 14: Calculus of Multivariable Functions
 * Evaluate and use multivariable functions.
-* Visualize two and three variable functions using graphs, contour maps, and scalar fields.
+* Visualize two- and three-variable functions using graphs, contour maps, and scalar fields.
 * Calculate the limit of a multivariable function.
 * Understand when a limit exists and does not exist for multivariable functions.
 * Calculate approximations of rates of change for multivariable functions.
@@ -307,7 +307,7 @@ For more help, the Department of Mathematics maintains a [list of private tutors
 
 ## Late-Drop
 
-Students may add/drop a course without academic penalty within the first six calendar days of the semester. A student may late drop a course within the first twelve weeks of the semester but accrues late drop credits equal to the number of credits in the dropped course. A baccalaureate student is limited to 16 late drop credits. Consult your academic advisor before late-dropping. *The late drop deadline is Friday November 13, 2026 at 11:59 PM (Eastern Time).*
+Students may add/drop a course without academic penalty within the first six calendar days of the semester. A student may late drop a course within the first twelve weeks of the semester but accrues late drop credits equal to the number of credits in the dropped course. A baccalaureate student is limited to 16 late drop credits. Consult your academic advisor before late-dropping. *The late drop deadline is Friday, November 13, 2026 at 11:59 PM (Eastern Time).*
 
 ## Deferred Grades
 
@@ -367,7 +367,7 @@ Once the Academic Integrity form has been accepted or contested by the student, 
 
 ### Sanctions
 
-If a student accepts an academic misconduct allegation, or if (s)he is found guilty during adjudication, probable sanctions include:
+If a student accepts an academic misconduct allegation, or if he or she is found guilty during adjudication, probable sanctions include:
 
 - A warning and
 - Reduction of the assignment grade to zero or
