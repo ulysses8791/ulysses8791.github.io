@@ -3,6 +3,6 @@ title: ""
 description: "Personal website of Mathieu Stiénon"
 baseurl: "" # Keep empty if using <username>.github.io; set to "/repository-name" for project pages
 kramdown:
+  input: GFM
   math_engine: mathjax
-  syntax_highlighter_opts:
-    disable: true
+  parse_block_html: true
