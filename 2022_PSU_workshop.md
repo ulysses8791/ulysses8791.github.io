@@ -476,9 +476,9 @@ contained in my joint work with Fresse and Willwacher
 "On the rational homotopy type of embedding spaces
 of manifolds in $\mathbb{R}^n$" [+].
 For a manifold $M$ and an ambient dimension $n$, we define a 
-graph-complex $L_\infty$ algebra $\operatorname{HGC}_{M,n}$, such that the 
+graph-complex $L_\infty$ algebra {% raw %}$\operatorname{HGC}_{M,n}${% endraw %}, such that the 
 rational homotopy type of each component of the embedding space 
-is computed as a twist of $\operatorname{HGC}_{M,n}$ by some Maurer-Cartan 
+is computed as a twist of {% raw %}$\operatorname{HGC}_{M,n}${% endraw %} by some Maurer-Cartan 
 element. The corresponding MC element modulo gauge relations
 MC/~  under some codimension restrictions happens to be a 
 finite-to-one invariant of embeddings. This invariant is 
@@ -488,7 +488,7 @@ components), higher linking Milnor invariants,
 Boéchat-Haefliger invariants of embeddings of 4-folds in $\mathbb{R}^7$, 
 Whitney-Skopenkov invariants of 3-folds in $\mathbb{R}^6$, Vassiliev and 
 TQFT invariants of long $(k-2)$-knots in $\mathbb{R}^k$, etc. In my talk I 
-will describe the graph-complex $\operatorname{HGC}_{M,n}$ and will state the 
+will describe the graph-complex {% raw %}$\operatorname{HGC}_{M,n}${% endraw %} and will state the 
 main results of [+]. Some examples will then be considered.
 
 (Joint work with B. Fresse and T. Willwacher.)
