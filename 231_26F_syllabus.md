@@ -50,7 +50,7 @@ Penn State, University Park, Fall 2026
 | Ping Xu | [pxx2@psu.edu](mailto:pxx2@psu.edu) | Wed Fri 02:30 PM — 03:30 PM in 329 McAllister Building |
 | Austin Davis | [ahd5198@psu.edu](mailto:ahd5198@psu.edu) | Wednesdays 10:00 AM — 11:00 AM in 413 McAllister Building |
 | Kaichuan Qi | [kkq5040@psu.edu](mailto:kkq5040@psu.edu) | Mondays 09:00 AM — 10:00 AM in 404 McAllister Building |
-| Nguyen Nguyen | [ndn5109@psu.edu](mailto:ndn5109@psu.edu) |  |
+| Nguyen Nguyen | [ndn5109@psu.edu](mailto:ndn5109@psu.edu) | Mondays 01:00 PM — 02:00 PM in 419 McAllister Building |
 | Ufuoma Asarhasa | [uva5039@psu.edu](mailto:uva5039@psu.edu) | Tuesdays 02:30 PM — 03:20 PM in 103 McAllister Building |
 
 - **Please always include _MATH 231_ in the subject line of every email message.**
