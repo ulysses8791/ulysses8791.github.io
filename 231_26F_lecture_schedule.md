@@ -8,8 +8,8 @@ title: Lecture Schedule for MATH 231 in Fall 2026
 | Textbook Section | Date |
 | :--- | :--- |
 | 12.1 — Vectors in the Plane | Aug 26 |
-| 12.2 — Three-Dimensional Space | Aug 28 |
-| 12.3 — Dot Product |  |
+| 12.2 — Three-Dimensional Space | Aug 28 & Sep 2 |
+| 12.3 — Dot Product | Sep 4 |
 | 12.4 — Cross Product |  |
 | 12.5 — Planes in 3-Space |  |
 | 12.6 — Quadric Surfaces |  |
