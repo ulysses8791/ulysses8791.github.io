@@ -141,18 +141,11 @@ Your grade will be based _exclusively_ on the weekly homework, in-class quizzes,
 
 ## Calculators, AI, etc
 
-Calculators, mobile apps, or electronic problem solvers (e.g., GeoGebra, WolframAlpha) are **strictly forbidden on all quizzes and exams**.
-Unauthorized use on tests constitutes an Academic Integrity violation resulting in a formal report.
-All assessment arithmetic is designed to be completed easily by hand. 
+Calculators, mobile apps, or electronic problem solvers (e.g., GeoGebra, WolframAlpha) are **strictly forbidden on all quizzes and exams**. Unauthorized use on tests constitutes an Academic Integrity violation resulting in a formal report. All assessment arithmetic is designed to be completed easily by hand. 
 
 ## Weekly Homework
 
-Homework is due weekly on **Mondays at 11:59 PM**.
-Submit your work well ahead of the deadline.
-Assignments submitted late will automatically be marked as such in [Gradescope](https://www.gradescope.com).
-Repeated late submission will result in a penalty.
-Homework assignments will lock 24 hours after their respective due dates and late submission will be disabled at that time.
-No homework submissions will be accepted after the assignment has locked.
+Homework is due weekly on **Mondays at 11:59 PM**. Submit your work well ahead of the deadline. Assignments submitted late will automatically be marked as such in [Gradescope](https://www.gradescope.com). Repeated late submission will result in a penalty. Homework assignments will lock 24 hours after their respective due dates and late submission will be disabled at that time. No homework submissions will be accepted after the assignment has locked.
 
 Students who have a _valid and documented_ reason for not submitting homework on time may request to be excused for that assignment. However, there will be no makeup homework assignments.
 
@@ -160,8 +153,7 @@ Students who have a _valid and documented_ reason for not submitting homework on
 
 Quizzes will be given in class on Monday every week (except during Week 1).
 
-If you must miss a quiz due to a valid, university-approved excuse, you **must notify your TA via email no later than 11:59 PM on the day of the quiz**.
-Approved quiz makeups must be completed before the end of the week in which the quiz took place. Makeup scores may not be entered into the Canvas grade book until the end of the term.
+If you must miss a quiz due to a valid, university-approved excuse, you **must notify your TA via email no later than 11:59 PM on the day of the quiz**. Approved quiz makeups must be completed before the end of the week in which the quiz took place. Makeup scores may not be entered into the Canvas grade book until the end of the term.
 
 ## Evening Examinations
 
@@ -194,9 +186,7 @@ Students must bring their official Penn State ID, several pencils, and an eraser
 
 ## Final Examination
 
-A *comprehensive* final examination will be given during the final examination period (December 14-18, 2026). The final examination may be scheduled on any day of finals week.
-Do not plan to leave University Park until after Friday, December 18, 2026.
-Students may access their final exam schedules on Monday, September 28, 2026, through their [LionPATH](https://lionpath.psu.edu) account.
+A *comprehensive* final examination will be given during the final examination period (December 14-18, 2026). The final examination may be scheduled on any day of finals week. Do not plan to leave University Park until after Friday, December 18, 2026. Students may access their final exam schedules on Monday, September 28, 2026, through their [LionPATH](https://lionpath.psu.edu) account.
 
 ### Conflict Final Exam
 
@@ -229,8 +219,7 @@ If you suspect a grading error on your exam or quiz, please submit a regrade req
 
 ## Students with Disabilities
 
-Penn State welcomes students with disabilities into the University's educational programs. If you have a disability-related need for reasonable academic adjustments in this course, contact Student Disability Resources at 814-863-1807 (V/TTY). For further information, please visit the [Student Disability Resources website](https://equity.psu.edu/student-disability-resources/). In order to receive consideration for accommodations, you must contact SDR and provide documentation (see the documentation guidelines at the [Student Disability Resources website](https://equity.psu.edu/student-disability-resources/)).
-If the documentation supports your request for reasonable accommodations, SDR will provide you with an accommodation letter identifying appropriate academic adjustments. Please share this letter with your instructors and discuss the accommodations with them as early in your courses as possible. You must follow this process for every semester that you request accommodations.
+Penn State welcomes students with disabilities into the University's educational programs. If you have a disability-related need for reasonable academic adjustments in this course, contact Student Disability Resources at 814-863-1807 (V/TTY). For further information, please visit the [Student Disability Resources website](https://equity.psu.edu/student-disability-resources/). In order to receive consideration for accommodations, you must contact SDR and provide documentation (see the documentation guidelines at the [Student Disability Resources website](https://equity.psu.edu/student-disability-resources/)). If the documentation supports your request for reasonable accommodations, SDR will provide you with an accommodation letter identifying appropriate academic adjustments. Please share this letter with your instructors and discuss the accommodations with them as early in your courses as possible. You must follow this process for every semester that you request accommodations.
 
 **Accommodations:** Contact your instructor immediately and email your accommodation letter to Exam Coordinator Kyrsten Murphy ([kml5346@psu.edu](kml5346@psu.edu)).
 
@@ -300,8 +289,7 @@ Upon successful completion of MATH 231, students should be able to demonstrate m
 
 ## Tutoring
 
-Free mathematics tutoring is available at [Penn State Learning](https://pennstatelearning.psu.edu/).
-They offer both online and in-person options.
+Free mathematics tutoring is available at [Penn State Learning](https://pennstatelearning.psu.edu/). They offer both online and in-person options.
 
 For more help, the Department of Mathematics maintains a [list of private tutors](https://science.psu.edu/math/undergraduate/courses/tutors).
 
@@ -315,9 +303,7 @@ Students who are *currently passing a course* but are unable to complete the cou
 
 ## Counseling and Psychological Services
 
-Many students at Penn State face personal challenges or have psychological needs that may interfere with their academic progress, social development, or emotional well-being.
-The university offers a variety of confidential services to help you through difficult times, including individual and group counseling, crisis intervention, consultations, online chats, and mental health screenings.
-These services are provided by staff who welcome all students and embrace a philosophy respectful of students’ cultural and religious backgrounds, and sensitive to differences in race, ability, gender identity and sexual orientation.
+Many students at Penn State face personal challenges or have psychological needs that may interfere with their academic progress, social development, or emotional well-being. The university offers a variety of confidential services to help you through difficult times, including individual and group counseling, crisis intervention, consultations, online chats, and mental health screenings. These services are provided by staff who welcome all students and embrace a philosophy respectful of students’ cultural and religious backgrounds, and sensitive to differences in race, ability, gender identity and sexual orientation.
 
 - [Counseling and Psychological Services at University Park](https://studentaffairs.psu.edu/counseling)
 - [Counseling and Psychological Services at other campuses](https://senate.psu.edu/faculty/counseling-services-at-commonwealth-campuses/)
@@ -388,29 +374,15 @@ The Office of the Vice Provost for Educational Equity serves as a catalyst and a
 
 ## Copyright and Intellectual Property
 
-All course materials students receive or to which students have online access are protected by copyright laws.
-Students may use course materials and make copies for their own use as needed, but unauthorized distribution and/or uploading of materials without the instructor’s express permission is strictly prohibited.
-University Policy [AD 40: Recording of Classroom Activities and Note-Taking Services](https://policy.psu.edu/policies/ad40) addresses this issue.
-Students who engage in the unauthorized distribution of copyrighted materials may be held in violation of the University’s [Code of Conduct](https://studentaffairs.psu.edu/support-safety-conduct/student-conduct/code-conduct) and/or liable under Federal and State laws.
+All course materials students receive or to which students have online access are protected by copyright laws. Students may use course materials and make copies for their own use as needed, but unauthorized distribution and/or uploading of materials without the instructor’s express permission is strictly prohibited. University Policy [AD 40: Recording of Classroom Activities and Note-Taking Services](https://policy.psu.edu/policies/ad40) addresses this issue. Students who engage in the unauthorized distribution of copyrighted materials may be held in violation of the University’s [Code of Conduct](https://studentaffairs.psu.edu/support-safety-conduct/student-conduct/code-conduct) and/or liable under Federal and State laws.
 
-A rising trend across the University is the posting and/or retrieval of material from course-share sites.
-Generally speaking, the uploading of materials to a course-share site is viewed as an Intellectual Property violation, and the downloading and use of materials from a course-share site could be a violation of academic integrity.
-If you have questions regarding the specific use of such a site, seek clarification directly from your instructor.
+A rising trend across the University is the posting and/or retrieval of material from course-share sites. Generally speaking, the uploading of materials to a course-share site is viewed as an Intellectual Property violation, and the downloading and use of materials from a course-share site could be a violation of academic integrity. If you have questions regarding the specific use of such a site, seek clarification directly from your instructor.
 
 ## Student Class Recordings
 
 Students are not allowed to record class sessions without permission.
 
-According to University Policy, students must get express permission from their instructor
-to record class sessions. Screenshots showing instructors and students are considered recordings.
-Even if permission is granted, student-initiated recordings must be used only for educational purposes
-for the students enrolled in the initiating student’s class.
-Recordings may be used only during the period in which the student is enrolled in the class.
-Authorized student-initiated recordings may not be posted or shared in any fashion outside of the class,
-including online or through other media, without the express written consent of the course instructor
-or appropriate University administrator. Students who engage in the unauthorized distribution
-of class recordings may be held in violation of the University’s [Code of Conduct](https://studentaffairs.psu.edu/support-safety-conduct/student-conduct/code-conduct),
-and/or liable under Federal and State laws.
+According to University Policy, students must get express permission from their instructor to record class sessions. Screenshots showing instructors and students are considered recordings. Even if permission is granted, student-initiated recordings must be used only for educational purposes for the students enrolled in the initiating student’s class. Recordings may be used only during the period in which the student is enrolled in the class. Authorized student-initiated recordings may not be posted or shared in any fashion outside of the class, including online or through other media, without the express written consent of the course instructor or appropriate University administrator. Students who engage in the unauthorized distribution of class recordings may be held in violation of the University’s [Code of Conduct](https://studentaffairs.psu.edu/support-safety-conduct/student-conduct/code-conduct), and/or liable under Federal and State laws.
 
 ## Calendar
 
