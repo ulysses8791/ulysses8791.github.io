@@ -153,7 +153,7 @@ Students who have a _valid and documented_ reason for not submitting homework on
 
 Quizzes will be given in class on Monday every week (except during Week 1).
 
-If you must miss a quiz due to a valid, university-approved excuse, you **must notify your TA via email no later than 11:59 PM on the day of the quiz**. Approved quiz makeups must be completed before the end of the week in which the quiz took place. Makeup scores may not be entered into the Canvas grade book until the end of the term.
+If you must miss a quiz due to a valid, university-approved excuse, you **must notify the TA in charge of your recitation section via email no later than 11:59 PM on the day of the quiz**. Approved quiz makeups must be completed before the end of the week in which the quiz took place. Makeup scores may not be entered into the Canvas grade book until the end of the term.
 
 ## Evening Examinations
 
