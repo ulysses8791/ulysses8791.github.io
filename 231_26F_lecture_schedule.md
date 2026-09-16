@@ -11,7 +11,7 @@ title: Lecture Schedule for MATH 231 in Fall 2026
 | 12.2 — Three-Dimensional Space | Aug 28 & Sep 2 |
 | 12.3 — Dot Product | Sep 4 |
 | 12.4 — Cross Product | Sep 9 & Sep 11 |
-| 12.5 — Planes in 3-Space |  |
+| 12.5 — Planes in 3-Space | Sep 16 |
 | 12.6 — Quadric Surfaces |  |
 | 13.1 — Vector-Valued Functions |  |
 | 13.2 — Calculus of Vector-Valued Functions |  |
