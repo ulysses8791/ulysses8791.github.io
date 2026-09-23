@@ -13,7 +13,7 @@ title: Lecture Schedule for MATH 231 in Fall 2026
 | 12.4 — Cross Product | Sep 9 & Sep 11 |
 | 12.5 — Planes in 3-Space | Sep 16 |
 | 12.6 — Quadric Surfaces | Sep 18 |
-| 13.1 — Vector-Valued Functions |  |
+| 13.1 — Vector-Valued Functions | Sep 23 |
 | 13.2 — Calculus of Vector-Valued Functions |  |
 | 13.3 — Arc Length and Speed |  |
 | 13.4 — Curvature |  |
