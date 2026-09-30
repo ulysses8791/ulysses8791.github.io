@@ -15,7 +15,7 @@ title: Lecture Schedule for MATH 231 in Fall 2026
 | 12.6 — Quadric Surfaces | Sep 18 |
 | 13.1 — Vector-Valued Functions | Sep 23 |
 | 13.2 — Calculus of Vector-Valued Functions | Sep 25 |
-| 13.3 — Arc Length and Speed |  |
+| 13.3 — Arc Length and Speed | Sep 30 |
 | 13.4 — Curvature |  |
 | 13.5 — Motion in 3-Space |  |
 | 14.1 — Functions of Two or More Variables |  |
