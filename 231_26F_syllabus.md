@@ -157,16 +157,36 @@ If you must miss a quiz due to a valid, university-approved excuse, you **must n
 
 ## Evening Examinations
 
+[Exam policies of the Department of Mathematics](26F_exam_policies.pdf)
+
 |         | Exam 1                         | Exam 2                          |
 | :-----: | :----------------------------: | :-----------------------------: |
 | **Regular** | **Wed, Oct 7 (6:15 PM – 7:30 PM)** | **Mon, Nov 9 (6:15 PM – 7:30 PM)** |
 | Makeup  | Thu, Oct 8 (6:15 PM – 7:30 PM) | Tue, Nov 10 (6:15 PM – 7:30 PM) |
 
-Exam room assignments will be announced by your instructor or TA and published on the math department website.
-
 Students must bring their official Penn State ID, several pencils, and an eraser to all exams.
 
-[Exam policies of the Department of Mathematics](26F_exam_policies.pdf)
+Exam room assignments will be announced by your instructor or TA and published on the math department website.
+
+### room assignments for Exam 1 on Wed, Oct 7 (6:15 PM – 7:30 PM)
+
+| Recitation Section | TA Name | Exam Room |
+|---|---|---|
+| 001R | Davis, Austin (AHD5198) | 100 Thomas |
+| 002R | Qi, Kaichuan (KKQ5040) | 112 Kern |
+| 003R | Davis, Austin (AHD5198) | 100 Thomas |
+| 004R | Nguyen, Nguyen (NDN5109) | 112 Kern |
+| 005R | Davis, Austin (AHD5198) | 112 Kern |
+| 006R | Nguyen, Nguyen (NDN5109) | 100 Thomas |
+| 007R | Davis, Austin (AHD5198) | 100 Thomas |
+| 008R | Qi, Kaichuan (KKQ5040) | 100 Thomas |
+| 009R | Nguyen, Nguyen (NDN5109) | 112 Kern |
+| 010R | Qi, Kaichuan (KKQ5040) | 121 Sparks |
+| 011R | Asarhasa, Ufuoma (UVA5039) | 100 Thomas |
+| 012R | Qi, Kaichuan (KKQ5040) | 121 Sparks |
+| 013R | Asarhasa, Ufuoma (UVA5039) | 121 Sparks |
+| 014R | Qi, Kaichuan (KKQ5040) | 100 Thomas |
+| 015R | Asarhasa, Ufuoma (UVA5039) | 100 Thomas |
 
 ### Makeup Exams
 
