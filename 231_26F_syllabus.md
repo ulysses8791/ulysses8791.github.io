@@ -170,6 +170,8 @@ Exam room assignments will be announced by your instructor or TA and published o
 
 ### Room Assignments for Exam 1 on Wed, Oct 7 (6:15 PM – 7:30 PM)
 
+_Students must take the exam in the room assigned to their specific recitation section (listed below). Attempting to take the exam in the wrong room may result in denial of entry and/or a grade penalty._
+
 | Section | TA Name | Exam Room |
 |---|---|---|
 | 001R | Davis, Austin (AHD5198) | 100 Thomas |
