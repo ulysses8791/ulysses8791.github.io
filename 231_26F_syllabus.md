@@ -168,7 +168,7 @@ Students must bring their official Penn State ID, several pencils, and an eraser
 
 Exam room assignments will be announced by your instructor or TA and published on the math department website.
 
-### room assignments for Exam 1 on Wed, Oct 7 (6:15 PM – 7:30 PM)
+### Room Assignments for Exam 1 on Wed, Oct 7 (6:15 PM – 7:30 PM)
 
 | Recitation Section | TA Name | Exam Room |
 |---|---|---|
