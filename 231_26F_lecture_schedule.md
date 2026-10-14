@@ -17,7 +17,7 @@ title: Lecture Schedule for MATH 231 in Fall 2026
 | 13.2 — Calculus of Vector-Valued Functions | Sep 25 & Sep 30 |
 | 13.3 — Arc Length and Speed | Sep 30 & Oct 2 |
 | 13.4 — Curvature | Oct 7 & Oct 9 |
-| 13.5 — Motion in 3-Space |  |
+| 13.5 — Motion in 3-Space | Oct 14 |
 | 14.1 — Functions of Two or More Variables |  |
 | 14.2 — Limits and Continuity in Several Variables |  |
 | 14.3 — Partial Derivatives |  |
