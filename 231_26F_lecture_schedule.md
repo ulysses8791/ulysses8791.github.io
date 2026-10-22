@@ -18,8 +18,8 @@ title: Lecture Schedule for MATH 231 in Fall 2026
 | 13.3 — Arc Length and Speed | Sep 30 & Oct 2 |
 | 13.4 — Curvature | Oct 7 & Oct 9 |
 | 13.5 — Motion in 3-Space | Oct 14 |
-| 14.1 — Functions of Two or More Variables | Oct 16 |
-| 14.2 — Limits and Continuity in Several Variables |  |
+| 14.1 — Functions of Two or More Variables | Oct 16 & Oct 21 |
+| 14.2 — Limits and Continuity in Several Variables | Oct 21 & Oct 23 |
 | 14.3 — Partial Derivatives |  |
 | 14.4 — Differentiability, Tangent Planes, and Linear Approximation |  |
 | 14.5 — Directional Derivatives and the Gradient |  |
