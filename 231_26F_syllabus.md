@@ -190,6 +190,28 @@ _Students must take the exam in the room assigned to their specific recitation s
 | 014R | Qi, Kaichuan (KKQ5040) | 100 Thomas |
 | 015R | Asarhasa, Ufuoma (UVA5039) | 100 Thomas |
 
+#### Room Assignments for Exam 2 on Mon, Nov 9 (6:15 PM – 7:30 PM)
+
+_Students must take the exam in the room assigned to their specific recitation section (listed below). Attempting to take the exam in the wrong room may result in denial of entry and/or a grade penalty._
+
+| Section | TA Name | Exam Room |
+| --- | --- | --- |
+| 001R | Davis, Austin (AHD5198) | 105 Forum |
+| 002R | Qi, Kaichuan (KKQ5040) | 112 Chambers |
+| 003R | Davis, Austin (AHD5198) | 105 Forum |
+| 004R | Nguyen, Nguyen (NDN5109) | 105 Forum |
+| 005R | Davis, Austin (AHD5198) | 108 Forum |
+| 006R | Nguyen, Nguyen (NDN5109) | 105 Forum |
+| 007R | Davis, Austin (AHD5198) | 108 Forum |
+| 008R | Qi, Kaichuan (KKQ5040) | 102 Forum |
+| 009R | Nguyen, Nguyen (NDN5109) | 105 Forum |
+| 010R | Qi, Kaichuan (KKQ5040) | 102 Forum |
+| 011R | Asarhasa, Ufuoma (UVA5039) | 108 Forum |
+| 012R | Qi, Kaichuan (KKQ5040) | 112 Chambers |
+| 013R | Asarhasa, Ufuoma (UVA5039) | 108 Forum |
+| 014R | Qi, Kaichuan (KKQ5040) | 102 Forum |
+| 015R | Asarhasa, Ufuoma (UVA5039) | 108 Forum |
+
 ### Makeup Exams
 
 - For each midterm, a **makeup exam** will be held the day after the regular exam. This exam is meant for students unable to take the regular exam due to valid, documented reasons.
