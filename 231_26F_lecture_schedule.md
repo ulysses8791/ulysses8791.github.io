@@ -22,7 +22,7 @@ title: Lecture Schedule for MATH 231 in Fall 2026
 | 14.2 — Limits and Continuity in Several Variables | Oct 21 & Oct 23 |
 | 14.3 — Partial Derivatives | Oct 28 |
 | 14.4 — Differentiability, Tangent Planes, and Linear Approximation | Oct 30 |
-| 14.5 — Directional Derivatives and the Gradient |  |
+| 14.5 — Directional Derivatives and the Gradient | Nov 4 & Nov 6 |
 | 14.6 — Chain Rule |  |
 | 14.7 — Optimization |  |
 | 14.8 — Lagrange Multipliers: Optimizing with a Constraint |  |
