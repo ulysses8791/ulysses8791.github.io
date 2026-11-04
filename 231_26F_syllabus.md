@@ -164,7 +164,9 @@ If you must miss a quiz due to a valid, university-approved excuse, you **must n
 | **Regular** | **Wed, Oct 7 (6:15 PM – 7:30 PM)** | **Mon, Nov 9 (6:15 PM – 7:30 PM)** |
 | Makeup  | Thu, Oct 8 (6:15 PM – 7:30 PM) | Tue, Nov 10 (6:15 PM – 7:30 PM) |
 
-Students must bring their official Penn State ID, several pencils, and an eraser to all exams.
+Students must bring their several pencils, an eraser, and a pencil sharpener to all exams.
+
+All students are expected to bring a **physical photo ID** (Penn State ID, driver's license, passport, or other government-issued photo identification) for identity verification.
 
 Exam room assignments will be announced by your instructor or TA and published on the math department website.
 
@@ -190,11 +192,9 @@ _Students must take the exam in the room assigned to their specific recitation s
 | 014R | Qi, Kaichuan (KKQ5040) | 100 Thomas |
 | 015R | Asarhasa, Ufuoma (UVA5039) | 100 Thomas |
 
-#### Room Assignments for Exam 2 on Mon, Nov 9 (6:15 PM – 7:30 PM)
+### Room Assignments for Exam 2 on Mon, Nov 9 (6:15 PM – 7:30 PM)
 
 _Students must take the exam in the room assigned to their specific recitation section (listed below). Attempting to take the exam in the wrong room may result in denial of entry and/or a grade penalty._
-
-All students are expected to bring a **physical photo ID** (Penn State ID, driver's license, passport, or other government-issued photo identification) for identity verification.
 
 | Section | TA Name | Exam Room |
 | --- | --- | --- |
