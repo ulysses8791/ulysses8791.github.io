@@ -125,17 +125,17 @@ Assignments will be weighted as follows:
 
 Course letter grades will be assigned as follows:
 
-| Percentage Range | Letter Grade |
-| :---: | :---: |
-| 93.0% – 100.0% | A  |
-| 90.0% – 92.9%  | A- |
-| 87.0% – 89.9%  | B+ |
-| 83.0% – 86.9%  | B  |
-| 80.0% – 82.9%  | B- |
-| 77.0% – 79.9%  | C+ |
-| 70.0% – 76.9%  | C  |
-| 60.0% – 69.9%  | D  |
-| 0.0% – 59.9%   | F  |
+| ~~Percentage Range~~ | Revised Percentage Range | Letter Grade |
+| :------------------: | :----------------------: | :----------: |
+| ~~93.0% – 100.0%~~   | 91.0% – 100.0%           | A            |
+| ~~90.0% – 92.9%~~    | 88.0% – 90.9%            | A-           |
+| ~~87.0% – 89.9%~~    | 85.0% – 87.9%            | B+           |
+| ~~83.0% – 86.9%~~    | 81.0% – 84.9%            | B            |
+| ~~80.0% – 82.9%~~    | 78.0% – 80.9%            | B-           |
+| ~~77.0% – 79.9%~~    | 75.0% – 77.9%            | C+           |
+| ~~70.0% – 76.9%~~    | 68.0% – 74.9%            | C            |
+| ~~60.0% – 69.9%~~    | 58.0% – 67.9%            | D            |
+| ~~0.0% – 59.9%~~     | 0.0% – 57.9%             | F            |
 
 Your grade will be based _exclusively_ on the weekly homework, in-class quizzes, the two evening examinations, and the comprehensive final exam. There is _no 'extra credit' work_.
 
