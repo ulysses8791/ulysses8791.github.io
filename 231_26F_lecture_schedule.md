@@ -24,5 +24,5 @@ title: Lecture Schedule for MATH 231 in Fall 2026
 | 14.4 — Differentiability, Tangent Planes, and Linear Approximation | Oct 30 |
 | 14.5 — Directional Derivatives and the Gradient | Nov 4 & Nov 6 |
 | 14.6 — Chain Rule | Nov 11 & Nov 13 |
-| 14.7 — Optimization | Nov 13 & Nov 16 |
+| 14.7 — Optimization | Nov 13, Nov 18, Nov 20 |
 | 14.8 — Lagrange Multipliers: Optimizing with a Constraint |  |
